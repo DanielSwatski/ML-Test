@@ -1,0 +1,2145 @@
+team,country,year,athletes,age,prev_medals,medals
+AFG,Afghanistan,1964,8,22.0,0.0,24
+AFG,Afghanistan,1968,5,23.2,0.0,24
+AFG,Afghanistan,1972,8,29.0,0.0,47
+AFG,Afghanistan,1980,11,23.6,0.0,47
+AFG,Afghanistan,2004,5,18.6,0.0,49
+AFG,Afghanistan,2008,4,22.5,0.0,22
+AFG,Afghanistan,2012,6,24.8,1.0,43
+AFG,Afghanistan,2016,3,24.7,1.0,52
+AHO,Netherlands Antilles,1964,4,28.5,0.0,55
+AHO,Netherlands Antilles,1968,5,31.0,0.0,51
+AHO,Netherlands Antilles,1972,2,38.5,0.0,19
+AHO,Netherlands Antilles,1976,4,27.3,0.0,27
+AHO,Netherlands Antilles,1984,13,18.2,0.0,56
+AHO,Netherlands Antilles,1988,4,25.0,0.0,41
+AHO,Netherlands Antilles,1992,4,30.2,1.0,49
+AHO,Netherlands Antilles,1996,7,30.1,0.0,40
+AHO,Netherlands Antilles,2000,8,30.6,0.0,25
+AHO,Netherlands Antilles,2004,3,32.3,0.0,14
+AHO,Netherlands Antilles,2008,4,23.0,0.0,45
+ALB,Albania,1992,9,25.3,,28
+ALB,Albania,1996,9,26.8,0.0,33
+ALB,Albania,2000,5,31.2,0.0,46
+ALB,Albania,2004,7,20.9,0.0,45
+ALB,Albania,2008,12,27.2,0.0,56
+ALB,Albania,2012,10,25.7,0.0,43
+ALB,Albania,2016,6,23.7,0.0,44
+ALG,Algeria,1964,7,26.0,,22
+ALG,Algeria,1968,9,25.8,0.0,36
+ALG,Algeria,1972,7,22.7,0.0,39
+ALG,Algeria,1980,63,23.4,0.0,28
+ALG,Algeria,1984,33,24.3,0.0,21
+ALG,Algeria,1988,45,24.6,2.0,43
+ALG,Algeria,1992,36,23.8,0.0,46
+ALG,Algeria,1996,47,24.2,2.0,42
+ALG,Algeria,2000,51,24.9,3.0,47
+ALG,Algeria,2004,71,25.1,5.0,22
+ALG,Algeria,2008,57,25.2,0.0,28
+ALG,Algeria,2012,39,24.8,2.0,52
+ALG,Algeria,2016,74,24.0,1.0,46
+AND,Andorra,1976,3,28.3,,33
+AND,Andorra,1980,2,31.0,0.0,49
+AND,Andorra,1984,2,35.0,0.0,29
+AND,Andorra,1988,4,22.2,0.0,29
+AND,Andorra,1992,8,23.1,0.0,28
+AND,Andorra,1996,8,24.4,0.0,19
+AND,Andorra,2000,5,31.0,0.0,45
+AND,Andorra,2004,6,29.7,0.0,24
+AND,Andorra,2008,5,26.6,0.0,30
+AND,Andorra,2012,6,32.0,0.0,14
+AND,Andorra,2016,4,26.0,0.0,65
+ANG,Angola,1980,17,17.4,,56
+ANG,Angola,1988,33,20.1,0.0,29
+ANG,Angola,1992,33,23.9,0.0,27
+ANG,Angola,1996,30,25.5,0.0,53
+ANG,Angola,2000,30,26.8,0.0,49
+ANG,Angola,2004,30,26.7,0.0,52
+ANG,Angola,2008,33,27.2,0.0,30
+ANG,Angola,2012,35,26.4,0.0,39
+ANG,Angola,2016,26,27.5,0.0,44
+ANT,Antigua and Barbuda,1976,17,23.2,,46
+ANT,Antigua and Barbuda,1984,27,21.1,0.0,47
+ANT,Antigua and Barbuda,1988,25,23.3,0.0,19
+ANT,Antigua and Barbuda,1992,18,25.4,0.0,35
+ANT,Antigua and Barbuda,1996,19,24.4,0.0,46
+ANT,Antigua and Barbuda,2000,4,29.5,0.0,24
+ANT,Antigua and Barbuda,2004,5,20.0,0.0,25
+ANT,Antigua and Barbuda,2008,5,22.2,0.0,23
+ANT,Antigua and Barbuda,2012,4,23.0,0.0,46
+ANT,Antigua and Barbuda,2016,9,22.2,0.0,36
+ARG,Argentina,1964,148,27.5,4.0,38
+ARG,Argentina,1968,132,26.1,1.0,32
+ARG,Argentina,1972,123,26.3,2.0,57
+ARG,Argentina,1976,106,24.2,1.0,37
+ARG,Argentina,1984,115,24.9,0.0,23
+ARG,Argentina,1988,134,25.0,0.0,45
+ARG,Argentina,1992,111,24.3,13.0,39
+ARG,Argentina,1996,221,24.5,2.0,41
+ARG,Argentina,2000,165,25.0,20.0,56
+ARG,Argentina,2004,179,27.0,20.0,61
+ARG,Argentina,2008,145,27.1,49.0,98
+ARG,Argentina,2012,148,27.4,51.0,42
+ARG,Argentina,2016,232,27.5,19.0,60
+ARM,Armenia,1996,38,24.0,,35
+ARM,Armenia,2000,26,25.6,2.0,36
+ARM,Armenia,2004,19,26.7,1.0,48
+ARM,Armenia,2008,26,24.9,0.0,52
+ARM,Armenia,2012,31,24.9,6.0,56
+ARM,Armenia,2016,34,24.5,3.0,34
+ARU,Aruba,1988,12,27.8,,27
+ARU,Aruba,1992,5,28.0,0.0,13
+ARU,Aruba,1996,3,23.3,0.0,53
+ARU,Aruba,2000,5,19.6,0.0,57
+ARU,Aruba,2004,4,22.0,0.0,44
+ARU,Aruba,2008,2,25.5,0.0,35
+ARU,Aruba,2012,4,23.8,0.0,40
+ARU,Aruba,2016,7,24.0,0.0,20
+ASA,American Samoa,1988,6,27.0,,39
+ASA,American Samoa,1996,7,30.9,0.0,33
+ASA,American Samoa,2000,4,27.0,0.0,35
+ASA,American Samoa,2004,3,30.0,0.0,26
+ASA,American Samoa,2008,4,23.5,0.0,30
+ASA,American Samoa,2012,4,22.0,0.0,48
+ASA,American Samoa,2016,4,25.2,0.0,27
+AUS,Australia,1964,392,24.4,46.0,81
+AUS,Australia,1968,224,23.1,44.0,80
+AUS,Australia,1972,266,23.3,51.0,38
+AUS,Australia,1976,274,24.0,20.0,47
+AUS,Australia,1980,190,22.5,23.0,43
+AUS,Australia,1984,337,23.8,13.0,111
+AUS,Australia,1988,339,24.9,52.0,80
+AUS,Australia,1992,390,23.8,35.0,114
+AUS,Australia,1996,550,24.9,57.0,166
+AUS,Australia-2,2000,788,25.8,132.0,249
+AUS,Australia-1,2004,601,25.8,183.0,194
+AUS,Australia,2008,570,26.1,157.0,196
+AUS,Australia,2012,514,26.3,149.0,155
+AUS,Australia,2016,518,26.6,114.0,122
+AUT,Austria,1964,82,24.8,3.0,45
+AUT,Austria,1968,59,25.9,0.0,45
+AUT,Austria,1972,143,26.3,5.0,54
+AUT,Austria,1976,73,27.3,3.0,25
+AUT,Austria,1980,92,24.6,1.0,35
+AUT,Austria,1984,130,25.2,5.0,41
+AUT,Austria,1988,96,27.0,3.0,43
+AUT,Austria,1992,127,26.2,1.0,31
+AUT,Austria,1996,92,27.5,6.0,29
+AUT,Austria,2000,114,26.3,3.0,37
+AUT,Austria,2004,92,28.4,4.0,19
+AUT,Austria,2008,93,27.3,8.0,51
+AUT,Austria,2012,90,28.2,3.0,45
+AUT,Austria,2016,85,27.4,0.0,53
+AZE,Azerbaijan,1996,24,25.1,,29
+AZE,Azerbaijan,2000,32,26.4,1.0,49
+AZE,Azerbaijan,2004,37,26.6,3.0,45
+AZE,Azerbaijan,2008,44,23.8,5.0,36
+AZE,Azerbaijan,2012,59,25.2,7.0,63
+AZE,Azerbaijan,2016,69,25.6,10.0,55
+BAH,John B,1964,12,32.7,0.0,54
+BAH,Bahamas,1968,22,27.5,2.0,40
+BAH,Bahamas,1972,25,27.1,0.0,40
+BAH,Bahamas,1976,19,23.2,0.0,26
+BAH,Bahamas,1984,31,22.1,0.0,41
+BAH,Bahamas,1988,18,26.9,0.0,42
+BAH,Bahamas,1992,18,24.6,0.0,60
+BAH,Bahamas,1996,36,27.1,1.0,14
+BAH,Bahamas,2000,39,26.4,5.0,51
+BAH,Bahamas,2004,28,25.8,11.0,30
+BAH,Bahamas,2008,33,26.0,2.0,52
+BAH,Bahamas,2012,29,26.0,7.0,51
+BAH,Bahamas,2016,38,25.6,4.0,55
+BAN,Bangladesh,1984,2,21.0,,33
+BAN,Bangladesh,1988,11,23.5,0.0,46
+BAN,Bangladesh,1992,9,24.6,0.0,28
+BAN,Bangladesh,1996,4,22.8,0.0,19
+BAN,Bangladesh,2000,6,20.8,0.0,25
+BAN,Bangladesh,2004,4,19.2,0.0,40
+BAN,Bangladesh,2008,5,24.4,0.0,49
+BAN,Bangladesh,2012,7,20.7,0.0,50
+BAN,Bangladesh,2016,7,23.4,0.0,65
+BAR,Barbados,1968,13,24.2,,51
+BAR,Barbados,1972,20,24.4,0.0,5
+BAR,Barbados,1976,17,23.2,0.0,46
+BAR,Barbados,1984,25,24.2,0.0,44
+BAR,Barbados,1988,26,23.4,0.0,40
+BAR,Barbados,1992,22,26.1,0.0,48
+BAR,Barbados,1996,22,20.9,0.0,43
+BAR,Barbados,2000,28,23.5,0.0,43
+BAR,Barbados,2004,15,23.2,1.0,47
+BAR,Barbados,2008,10,22.4,0.0,31
+BAR,Barbados,2012,8,23.5,0.0,27
+BAR,Barbados,2016,13,25.2,0.0,42
+BDI,Burundi,1996,7,25.4,,43
+BDI,Burundi,2000,6,25.2,1.0,56
+BDI,Burundi,2004,7,25.0,0.0,22
+BDI,Burundi,2008,3,24.3,0.0,26
+BDI,Burundi,2012,6,21.8,0.0,66
+BDI,Burundi,2016,10,24.5,0.0,39
+BEL,Belgium,1964,74,25.0,4.0,32
+BEL,Belgium,1968,106,23.5,3.0,42
+BEL,Belgium,1972,106,24.7,3.0,37
+BEL,Belgium,1976,149,22.6,2.0,36
+BEL,Belgium,1980,84,23.0,9.0,22
+BEL,Belgium,1984,86,24.1,1.0,30
+BEL,Belgium,1988,85,24.3,5.0,48
+BEL,Belgium,1992,103,24.8,2.0,58
+BEL,Belgium,1996,81,27.1,3.0,39
+BEL,Belgium,2000,94,25.8,6.0,40
+BEL,Belgium,2004,70,28.9,7.0,55
+BEL,Belgium,2008,112,24.9,3.0,45
+BEL,Belgium,2012,142,27.7,5.0,45
+BEL,Belgium,2016,138,25.3,3.0,46
+BEN,Benin,1972,3,23.0,,35
+BEN,Benin,1980,17,24.0,0.0,54
+BEN,Benin,1984,3,25.3,0.0,33
+BEN,Benin,1988,10,27.6,0.0,39
+BEN,Benin,1992,7,22.4,0.0,43
+BEN,Benin,1996,7,25.7,0.0,35
+BEN,Benin,2000,4,25.8,0.0,50
+BEN,Benin,2004,4,22.8,0.0,47
+BEN,Benin,2008,5,24.4,0.0,33
+BEN,Benin,2012,5,26.2,0.0,57
+BEN,Benin,2016,6,26.5,0.0,53
+BER,Oleander XII,1964,4,25.5,0.0,42
+BER,Bermuda,1968,6,29.2,0.0,28
+BER,Bermuda,1972,9,30.0,0.0,37
+BER,Bermuda,1976,20,25.0,0.0,37
+BER,Bermuda,1984,13,25.1,1.0,32
+BER,Bermuda,1988,14,28.6,0.0,26
+BER,Bermuda,1992,29,23.7,0.0,24
+BER,Bermuda,1996,10,30.7,0.0,62
+BER,Bermuda,2000,7,31.9,0.0,50
+BER,Bermuda,2004,10,31.3,0.0,35
+BER,Bermuda,2008,6,24.0,0.0,49
+BER,Bermuda,2012,8,27.8,0.0,35
+BER,Bermuda,2016,8,25.1,0.0,37
+BHU,Bhutan,1984,6,26.3,,20
+BHU,Bhutan,1988,6,34.0,0.0,39
+BHU,Bhutan,1992,12,22.2,0.0,58
+BHU,Bhutan,1996,2,23.5,0.0,33
+BHU,Bhutan,2000,2,25.0,0.0,39
+BHU,Bhutan,2004,2,25.5,0.0,58
+BHU,Bhutan,2008,2,27.0,0.0,39
+BHU,Bhutan,2012,2,27.5,0.0,42
+BHU,Bhutan,2016,2,25.0,0.0,57
+BIH,Bosnia and Herzegovina,1992,13,26.6,,39
+BIH,Bosnia and Herzegovina,1996,12,27.3,0.0,29
+BIH,Bosnia and Herzegovina,2000,11,28.5,0.0,43
+BIH,Bosnia and Herzegovina,2004,11,27.6,0.0,50
+BIH,Bosnia and Herzegovina,2008,7,32.4,0.0,47
+BIH,Bosnia and Herzegovina,2012,8,32.1,0.0,47
+BIH,Bosnia and Herzegovina,2016,11,25.3,0.0,46
+BIZ,Belize,1968,7,29.1,,30
+BIZ,Belize,1972,2,66.0,0.0,41
+BIZ,Belize,1976,4,44.3,0.0,19
+BIZ,Belize,1984,13,22.4,0.0,20
+BIZ,Belize,1988,13,22.3,0.0,40
+BIZ,Belize,1992,18,22.5,0.0,52
+BIZ,Belize,1996,5,26.8,0.0,40
+BIZ,Belize,2000,2,21.0,0.0,14
+BIZ,Belize,2004,2,23.5,0.0,38
+BIZ,Belize,2008,4,26.8,0.0,25
+BIZ,Belize,2012,3,27.3,0.0,23
+BIZ,Belize,2016,3,27.3,0.0,33
+BLR,Belarus,1996,259,23.5,,65
+BLR,Belarus,2000,231,24.9,23.0,53
+BLR,Belarus,2004,192,25.5,22.0,70
+BLR,Belarus,2008,237,25.6,15.0,65
+BLR,Belarus,2012,185,26.9,29.0,77
+BLR,Belarus,2016,142,27.3,23.0,61
+BOL,Bolivia,1964,1,34.0,,16
+BOL,Bolivia,1968,4,39.0,0.0,58
+BOL,Bolivia,1972,14,30.8,0.0,45
+BOL,Bolivia,1976,5,30.8,0.0,51
+BOL,Bolivia,1984,13,28.6,0.0,14
+BOL,Bolivia,1988,12,20.5,0.0,27
+BOL,Bolivia,1992,21,25.0,0.0,51
+BOL,Bolivia,1996,9,22.6,0.0,26
+BOL,Bolivia,2000,5,24.2,0.0,42
+BOL,Bolivia,2004,11,20.5,0.0,44
+BOL,Bolivia,2008,7,32.4,0.0,34
+BOL,Bolivia,2012,5,23.8,0.0,29
+BOL,Bolivia,2016,12,25.6,0.0,40
+BOT,Botswana,1980,8,26.0,,48
+BOT,Botswana,1984,8,28.5,0.0,29
+BOT,Botswana,1988,11,25.2,0.0,39
+BOT,Botswana,1992,6,27.7,0.0,35
+BOT,Botswana,1996,7,25.6,0.0,34
+BOT,Botswana,2000,9,24.9,0.0,31
+BOT,Botswana,2004,12,24.4,0.0,24
+BOT,Botswana,2008,11,23.8,0.0,39
+BOT,Botswana,2012,4,23.5,0.0,30
+BOT,Botswana,2016,14,21.9,1.0,22
+BRA,Brazil,1964,65,24.4,13.0,69
+BRA,Brazil,1968,89,24.9,12.0,30
+BRA,Brazil,1972,104,23.1,4.0,56
+BRA,Brazil,1976,89,23.6,2.0,35
+BRA,Brazil,1980,149,23.3,3.0,31
+BRA,Brazil,1984,197,24.3,9.0,56
+BRA,Brazil,1988,233,24.3,36.0,78
+BRA,Brazil,1992,233,25.2,23.0,57
+BRA,Brazil,1996,251,25.3,14.0,99
+BRA,Brazil,2000,236,25.0,63.0,93
+BRA,Brazil,2004,318,25.3,48.0,71
+BRA,Brazil,2008,338,25.7,40.0,134
+BRA,Brazil,2012,306,27.0,78.0,115
+BRA,Brazil,2016,583,27.2,59.0,103
+BRN,Bahrain,1984,14,21.3,,38
+BRN,Bahrain,1988,16,23.7,0.0,41
+BRN,Bahrain,1992,15,24.9,0.0,24
+BRN,Bahrain,2004,10,22.6,0.0,50
+BRN,Bahrain,2008,15,24.3,0.0,41
+BRN,Bahrain,2012,14,22.6,0.0,35
+BRN,Bahrain,2016,33,23.4,1.0,42
+BRU,Brunei,1996,1,23.0,,46
+BRU,Brunei,2000,2,26.5,0.0,33
+BRU,Brunei,2004,1,22.0,0.0,49
+BRU,Brunei,2012,3,18.7,0.0,56
+BRU,Brunei,2016,3,23.0,0.0,47
+BUL,Bulgaria,1964,116,26.5,7.0,46
+BUL,Bulgaria,1968,189,24.3,10.0,68
+BUL,Bulgaria,1972,226,23.9,26.0,46
+BUL,Bulgaria,1976,254,22.2,22.0,68
+BUL,Bulgaria,1980,397,23.1,39.0,133
+BUL,Bulgaria,1988,281,23.1,90.0,64
+BUL,Bulgaria,1992,236,22.3,41.0,60
+BUL,Bulgaria,1996,181,24.1,17.0,75
+BUL,Bulgaria,2000,150,25.4,21.0,28
+BUL,Bulgaria,2004,119,25.4,13.0,58
+BUL,Bulgaria,2008,87,26.6,17.0,24
+BUL,Bulgaria,2012,75,26.1,5.0,36
+BUL,Bulgaria,2016,58,25.8,2.0,44
+BUR,Burkina Faso,1972,1,27.0,,50
+BUR,Burkina Faso,1988,9,23.8,0.0,48
+BUR,Burkina Faso,1992,4,25.5,0.0,51
+BUR,Burkina Faso,1996,5,20.4,0.0,46
+BUR,Burkina Faso,2000,4,22.2,0.0,12
+BUR,Burkina Faso,2004,5,28.8,0.0,43
+BUR,Burkina Faso,2008,6,27.5,0.0,34
+BUR,Burkina Faso,2012,5,22.8,0.0,17
+BUR,Burkina Faso,2016,5,22.6,0.0,61
+CAF,Central African Republic,1984,3,23.3,,26
+CAF,Central African Republic,1988,15,25.0,0.0,48
+CAF,Central African Republic,1992,21,23.5,0.0,31
+CAF,Central African Republic,1996,5,25.2,0.0,39
+CAF,Central African Republic,2000,3,32.7,0.0,28
+CAF,Central African Republic,2004,4,26.0,0.0,47
+CAF,Central African Republic,2008,3,21.3,0.0,15
+CAF,Central African Republic,2012,6,23.3,0.0,38
+CAF,Central African Republic,2016,6,21.5,0.0,26
+CAM,Cambodia,1964,15,23.5,,18
+CAM,Cambodia,1972,17,23.6,0.0,59
+CAM,Cambodia,1996,5,20.8,0.0,47
+CAM,Cambodia,2000,4,23.8,0.0,47
+CAM,Cambodia,2004,4,20.2,0.0,42
+CAM,Cambodia,2008,4,18.0,0.0,25
+CAM,Cambodia,2012,6,22.5,0.0,39
+CAM,Cambodia,2016,6,29.5,0.0,68
+CAN,Canada,1964,194,24.4,9.0,54
+CAN,Canada,1968,291,24.0,5.0,28
+CAN,Canada,1972,344,23.2,10.0,46
+CAN,Canada,1976,531,22.8,11.0,45
+CAN,Canada,1984,572,23.7,23.0,111
+CAN,Canada,1988,503,24.1,87.0,65
+CAN,Canada,1992,445,25.1,23.0,96
+CAN,Canada-2,1996,408,26.4,44.0,83
+CAN,Canada-2,2000,422,26.0,50.0,58
+CAN,Canada,2004,391,26.2,31.0,38
+CAN,Canada,2008,449,26.5,17.0,58
+CAN,Canada,2012,354,26.4,35.0,111
+CAN,Canada,2016,405,26.0,55.0,114
+CAY,Cayman Islands,1976,2,24.5,,47
+CAY,Cayman Islands,1984,14,25.0,0.0,41
+CAY,Cayman Islands,1988,12,22.2,0.0,52
+CAY,Cayman Islands,1992,13,26.6,0.0,37
+CAY,Cayman Islands,1996,9,30.8,0.0,21
+CAY,Cayman Islands,2000,4,24.0,0.0,30
+CAY,Cayman Islands,2004,8,21.8,0.0,26
+CAY,Cayman Islands,2008,6,21.8,0.0,40
+CAY,Cayman Islands,2012,7,23.3,0.0,37
+CAY,Cayman Islands,2016,5,23.2,0.0,26
+CGO,Congo (Brazzaville),1964,2,21.0,,39
+CGO,Congo (Brazzaville),1972,8,21.4,0.0,41
+CGO,Congo (Brazzaville),1980,25,26.6,0.0,39
+CGO,Congo (Brazzaville),1984,13,27.8,0.0,16
+CGO,Congo (Brazzaville),1988,10,24.3,0.0,21
+CGO,Congo (Brazzaville),1992,10,24.3,0.0,38
+CGO,Congo (Brazzaville),1996,5,21.6,0.0,70
+CGO,Congo (Brazzaville),2000,5,22.2,0.0,46
+CGO,Congo (Brazzaville),2004,5,22.0,0.0,6
+CGO,Congo (Brazzaville),2008,5,24.0,0.0,17
+CGO,Congo (Brazzaville),2012,7,26.1,0.0,60
+CGO,Congo (Brazzaville),2016,10,24.9,0.0,37
+CHA,Chad,1964,2,21.5,,33
+CHA,Chad,1968,4,24.5,0.0,38
+CHA,Chad,1972,5,25.0,0.0,52
+CHA,Chad,1984,3,28.0,0.0,27
+CHA,Chad,1988,6,23.0,0.0,23
+CHA,Chad,1992,7,22.1,0.0,32
+CHA,Chad,1996,4,21.5,0.0,49
+CHA,Chad,2000,3,22.7,0.0,32
+CHA,Chad,2004,1,27.0,0.0,42
+CHA,Chad,2008,2,22.5,0.0,42
+CHA,Chad,2012,2,18.0,0.0,32
+CHA,Chad,2016,2,23.5,0.0,34
+CHI,Chile,1964,16,27.8,0.0,20
+CHI,Chile,1968,25,29.4,0.0,41
+CHI,Chile,1972,13,27.5,0.0,42
+CHI,Chile,1976,9,27.8,0.0,53
+CHI,Chile,1984,64,26.4,0.0,59
+CHI,Chile,1988,23,26.8,0.0,55
+CHI,Chile,1992,15,27.1,1.0,49
+CHI,Chile,1996,24,23.5,0.0,22
+CHI,Chile,2000,58,25.9,0.0,53
+CHI,Chile,2004,29,26.0,17.0,38
+CHI,Chile,2008,29,27.0,4.0,38
+CHI,Chile,2012,44,29.8,1.0,54
+CHI,Chile,2016,47,27.1,0.0,19
+CHN,China,1984,323,22.1,0.0,106
+CHN,China,1988,427,22.5,74.0,98
+CHN,China,1992,394,22.1,52.0,112
+CHN,China,1996,438,22.1,82.0,130
+CHN,China,2000,414,22.6,106.0,134
+CHN,China,2004,518,23.0,79.0,117
+CHN,China,2008,730,23.9,94.0,226
+CHN,China,2012,479,24.0,184.0,179
+CHN,China,2016,499,24.0,125.0,164
+CIV,Cote d'Ivoire,1964,10,24.9,,55
+CIV,Cote d'Ivoire,1968,11,26.8,0.0,47
+CIV,Cote d'Ivoire,1972,13,28.2,0.0,10
+CIV,Cote d'Ivoire,1976,11,20.3,0.0,49
+CIV,Cote d'Ivoire,1984,18,24.1,0.0,42
+CIV,Cote d'Ivoire,1988,29,23.1,1.0,44
+CIV,Cote d'Ivoire,1992,18,23.7,0.0,28
+CIV,Cote d'Ivoire,1996,13,23.5,0.0,40
+CIV,Cote d'Ivoire,2000,18,23.6,0.0,43
+CIV,Cote d'Ivoire,2004,5,24.2,0.0,59
+CIV,Cote d'Ivoire,2008,22,24.1,0.0,48
+CIV,Cote d'Ivoire,2012,10,23.7,0.0,32
+CIV,Cote d'Ivoire,2016,15,26.1,0.0,45
+CMR,Cameroon,1964,2,22.0,,55
+CMR,Cameroon,1968,5,24.8,0.0,41
+CMR,Cameroon,1972,18,23.2,1.0,44
+CMR,Cameroon,1976,4,23.8,0.0,39
+CMR,Cameroon,1980,29,25.0,0.0,7
+CMR,Cameroon,1984,56,26.1,0.0,37
+CMR,Cameroon,1988,21,23.4,1.0,11
+CMR,Cameroon,1992,12,24.0,0.0,53
+CMR,Cameroon,1996,19,24.2,0.0,49
+CMR,Cameroon,2000,39,22.4,0.0,63
+CMR,Cameroon,2004,19,24.2,18.0,53
+CMR,Cameroon,2008,32,23.2,1.0,29
+CMR,Cameroon,2012,32,24.2,1.0,61
+CMR,Cameroon,2016,22,26.6,0.0,43
+COD,Congo (Kinshasa),1968,8,21.6,,50
+COD,Congo (Kinshasa),1984,9,23.3,0.0,37
+COD,Congo (Kinshasa),1988,21,23.6,0.0,48
+COD,Congo (Kinshasa),1992,19,24.5,0.0,40
+COD,Congo (Kinshasa),1996,14,25.8,0.0,41
+COD,Congo (Kinshasa),2000,3,24.7,0.0,39
+COD,Congo (Kinshasa),2004,6,20.8,0.0,32
+COD,Congo (Kinshasa),2008,5,27.4,0.0,36
+COD,Congo (Kinshasa),2012,4,23.2,0.0,36
+COD,Congo (Kinshasa),2016,4,24.0,0.0,59
+COK,Cook Islands,1988,8,23.0,,58
+COK,Cook Islands,1992,2,22.5,0.0,48
+COK,Cook Islands,1996,3,26.3,0.0,41
+COK,Cook Islands,2000,2,24.0,0.0,26
+COK,Cook Islands,2004,3,26.3,0.0,33
+COK,Cook Islands,2008,4,22.0,0.0,54
+COK,Cook Islands,2012,9,20.1,0.0,26
+COK,Cook Islands,2016,9,23.3,0.0,59
+COL,Colombia,1964,40,27.9,0.0,57
+COL,Colombia,1968,70,19.5,0.0,39
+COL,Colombia,1972,75,23.1,0.0,30
+COL,Colombia,1976,44,23.6,3.0,60
+COL,Colombia,1980,28,25.0,0.0,31
+COL,Colombia,1984,48,25.2,0.0,46
+COL,Colombia,1988,57,24.9,1.0,51
+COL,Colombia,1992,61,24.4,1.0,60
+COL,Colombia,1996,62,25.8,1.0,46
+COL,Colombia,2000,54,25.8,0.0,23
+COL,Colombia,2004,71,25.6,1.0,33
+COL,Colombia,2008,90,24.9,2.0,47
+COL,Colombia,2012,120,25.3,2.0,65
+COL,Colombia,2016,157,25.8,8.0,51
+COM,Comoros,1996,4,21.0,,33
+COM,Comoros,2000,2,19.5,0.0,32
+COM,Comoros,2004,3,27.7,0.0,32
+COM,Comoros,2008,3,21.7,0.0,36
+COM,Comoros,2012,3,21.3,0.0,36
+COM,Comoros,2016,4,21.8,0.0,43
+CPV,Cape Verde,1996,3,29.7,,56
+CPV,Cape Verde,2000,2,31.5,0.0,39
+CPV,Cape Verde,2004,3,27.3,0.0,35
+CPV,Cape Verde,2008,2,25.5,0.0,35
+CPV,Cape Verde,2012,3,22.3,0.0,33
+CPV,Cape Verde,2016,5,22.6,0.0,33
+CRC,Costa Rica,1964,2,36.5,,41
+CRC,Costa Rica,1968,27,27.7,0.0,51
+CRC,Costa Rica,1972,4,31.8,0.0,48
+CRC,Costa Rica,1976,10,24.0,0.0,21
+CRC,Costa Rica,1980,37,23.8,0.0,52
+CRC,Costa Rica,1984,32,24.8,0.0,40
+CRC,Costa Rica,1988,33,20.7,0.0,18
+CRC,Costa Rica,1992,20,26.8,1.0,60
+CRC,Costa Rica,1996,13,24.8,0.0,45
+CRC,Costa Rica,2000,9,25.3,1.0,64
+CRC,Costa Rica,2004,21,24.7,2.0,52
+CRC,Costa Rica,2008,8,24.5,0.0,38
+CRC,Costa Rica,2012,11,26.2,0.0,27
+CRC,Costa Rica,2016,12,27.8,0.0,45
+CRO,Croatia,1992,46,24.7,,43
+CRO,Croatia,1996,117,24.6,15.0,59
+CRO,Croatia,2000,108,24.5,28.0,44
+CRO,Croatia,2004,100,25.9,10.0,49
+CRO,Croatia,2008,125,25.9,21.0,46
+CRO,Croatia,2012,118,27.1,5.0,66
+CRO,Croatia,2016,93,27.0,35.0,53
+CUB,Cuba,1964,76,21.7,0.0,32
+CUB,Cuba,1968,227,21.5,1.0,49
+CUB,Cuba,1972,201,22.3,10.0,52
+CUB,Cuba,1976,194,23.5,22.0,47
+CUB,Cuba,1980,288,23.7,24.0,60
+CUB,Cuba,1992,196,24.8,20.0,101
+CUB,Cuba,1996,178,25.7,69.0,96
+CUB,Cuba,2000,271,26.5,55.0,99
+CUB,Cuba,2004,177,26.0,65.0,98
+CUB,Cuba,2008,171,25.6,62.0,103
+CUB,Cuba,2012,118,25.4,47.0,40
+CUB,Cuba,2016,143,24.5,14.0,29
+CYP,Cyprus,1980,15,23.4,,27
+CYP,Cyprus,1984,12,30.0,0.0,46
+CYP,Cyprus,1988,11,27.4,0.0,15
+CYP,Cyprus,1992,19,24.4,0.0,29
+CYP,Cyprus,1996,24,24.0,0.0,36
+CYP,Cyprus,2000,24,25.2,0.0,48
+CYP,Cyprus,2004,21,25.2,0.0,50
+CYP,Cyprus,2008,18,24.5,0.0,57
+CYP,Cyprus,2012,13,25.8,0.0,23
+CYP,Cyprus,2016,21,24.5,1.0,20
+CZE,Czech Republic,1996,169,24.9,,38
+CZE,Czech Republic,2000,162,25.2,13.0,52
+CZE,Czech Republic,2004,171,26.5,9.0,52
+CZE,Czech Republic,2008,158,26.1,13.0,45
+CZE,Czech Republic,2012,159,26.8,7.0,58
+CZE,Czech Republic,2016,135,27.0,14.0,61
+DEN,Denmark,1964,71,24.1,23.0,59
+DEN,Denmark,1968,93,26.1,12.0,55
+DEN,Denmark,1972,155,26.3,17.0,13
+DEN,Denmark,1976,81,26.8,1.0,44
+DEN,Denmark,1980,60,26.6,8.0,55
+DEN,Denmark,1984,74,25.1,8.0,29
+DEN,Denmark,1988,130,23.9,13.0,53
+DEN,Denmark,1992,144,25.0,7.0,51
+DEN,Denmark,1996,145,25.8,14.0,66
+DEN,Denmark,2000,124,27.8,23.0,71
+DEN,Denmark,2004,115,27.4,25.0,57
+DEN,Digby,2008,108,26.5,29.0,65
+DEN,Denmark,2012,149,26.9,19.0,65
+DEN,Denmark,2016,143,26.4,16.0,79
+DJI,Djibouti,1984,3,26.0,,37
+DJI,Djibouti,1988,6,24.2,0.0,27
+DJI,Djibouti,1992,8,25.9,1.0,42
+DJI,Djibouti,1996,5,32.4,0.0,46
+DJI,Djibouti,2000,2,25.0,0.0,59
+DJI,Djibouti,2012,4,19.5,0.0,35
+DJI,Djibouti,2016,8,21.9,0.0,58
+DMA,Dominica,1996,6,27.3,,32
+DMA,Dominica,2000,4,22.2,0.0,66
+DMA,Dominica,2004,2,22.0,0.0,45
+DMA,Dominica,2008,2,25.0,0.0,36
+DMA,Dominica,2012,2,21.5,0.0,34
+DMA,Dominica,2016,2,25.0,0.0,49
+DOM,Dominican Republic,1964,1,30.0,,32
+DOM,Dominican Republic,1968,24,26.1,0.0,46
+DOM,Dominican Republic,1972,5,29.4,0.0,49
+DOM,Dominican Republic,1976,11,20.8,0.0,49
+DOM,Dominican Republic,1980,7,21.8,0.0,42
+DOM,Dominican Republic,1984,24,23.8,0.0,61
+DOM,Dominican Republic,1988,18,24.8,1.0,41
+DOM,Dominican Republic,1992,32,22.8,0.0,45
+DOM,Dominican Republic,1996,16,23.5,0.0,21
+DOM,Dominican Republic,2000,13,23.0,0.0,27
+DOM,Dominican Republic,2004,33,24.4,0.0,36
+DOM,Dominican Republic,2008,27,25.4,1.0,54
+DOM,Dominican Republic,2012,36,24.5,2.0,34
+DOM,Dominican Republic,2016,30,25.7,2.0,46
+ECU,Ecuador,1968,41,21.7,,53
+ECU,Ecuador,1972,4,18.5,0.0,25
+ECU,Ecuador,1976,8,21.4,0.0,45
+ECU,Ecuador,1980,16,19.8,0.0,43
+ECU,Ecuador,1984,15,28.1,0.0,6
+ECU,Ecuador,1988,15,26.1,0.0,51
+ECU,Ecuador,1992,15,26.0,0.0,33
+ECU,Ecuador,1996,28,24.1,0.0,57
+ECU,Ecuador,2000,11,27.7,1.0,57
+ECU,Ecuador,2004,18,27.9,0.0,53
+ECU,Ecuador,2008,26,26.2,0.0,35
+ECU,Ecuador,2012,36,25.0,1.0,44
+ECU,Ecuador,2016,40,27.5,0.0,10
+EGY,Egypt,1964,83,25.4,5.0,37
+EGY,Egypt,1968,35,25.8,0.0,23
+EGY,Egypt,1972,26,23.5,0.0,43
+EGY,Egypt,1976,26,24.7,0.0,37
+EGY,Egypt,1984,148,24.2,0.0,26
+EGY,Egypt,1988,59,23.7,1.0,21
+EGY,Egypt,1992,83,23.8,0.0,46
+EGY,Egypt,1996,33,24.8,0.0,44
+EGY,Egypt,2000,103,24.7,0.0,24
+EGY,Egypt,2004,104,25.0,0.0,71
+EGY,Egypt,2008,116,24.9,5.0,43
+EGY,Egypt,2012,132,24.1,1.0,14
+EGY,Egypt,2016,137,24.5,2.0,24
+ERI,Eritrea,2000,3,21.7,,63
+ERI,Eritrea,2004,5,23.2,0.0,45
+ERI,Eritrea,2008,11,25.0,1.0,39
+ERI,Eritrea,2012,12,24.2,0.0,56
+ERI,Eritrea,2016,12,26.2,0.0,45
+ESA,El Salvador,1968,104,21.9,,52
+ESA,El Salvador,1972,18,30.8,0.0,35
+ESA,El Salvador,1984,15,21.9,0.0,46
+ESA,El Salvador,1988,7,23.7,0.0,25
+ESA,El Salvador,1992,6,19.8,0.0,38
+ESA,El Salvador,1996,10,24.7,0.0,58
+ESA,El Salvador,2000,10,24.5,0.0,23
+ESA,El Salvador,2004,9,23.7,0.0,45
+ESA,El Salvador,2008,14,25.2,0.0,46
+ESA,El Salvador,2012,11,23.3,0.0,32
+ESA,El Salvador,2016,10,22.5,0.0,30
+ESP,Spain,1964,67,23.9,14.0,30
+ESP,Spain,1968,137,23.9,0.0,56
+ESP,Spain,1972,162,24.6,0.0,39
+ESP,Spain,1976,160,23.0,1.0,47
+ESP,Spain,1980,211,23.0,6.0,92
+ESP,Spain,1984,257,23.5,24.0,63
+ESP,Spain,1988,317,23.8,19.0,54
+ESP,Spain,1992,537,24.3,5.0,104
+ESP,Spain,1996,384,25.1,69.0,112
+ESP,Spain,2000,431,25.6,66.0,57
+ESP,Spain,2004,423,26.0,42.0,72
+ESP,Spain,2008,355,26.7,30.0,108
+ESP,Spain,2012,339,26.5,70.0,108
+ESP,Spain,2016,363,27.7,63.0,64
+EST,Estonia,1992,46,24.1,7.0,25
+EST,Estonia,1996,52,27.4,3.0,54
+EST,Estonia,2000,41,27.6,0.0,49
+EST,Estonia,2004,45,25.9,3.0,61
+EST,Estonia,2008,53,25.0,3.0,42
+EST,Estonia,2012,36,27.3,3.0,27
+EST,Estonia,2016,49,27.5,2.0,28
+ETH,Ethiopia,1964,19,24.6,1.0,44
+ETH,Ethiopia,1968,26,26.7,1.0,28
+ETH,Ethiopia,1972,40,26.4,2.0,52
+ETH,Ethiopia,1980,48,25.5,2.0,36
+ETH,Ethiopia,1992,24,21.7,4.0,36
+ETH,Ethiopia,1996,19,22.9,3.0,27
+ETH,Ethiopia,2000,27,22.9,3.0,63
+ETH,Ethiopia,2004,27,22.9,8.0,43
+ETH,Ethiopia,2008,29,23.9,7.0,49
+ETH,Ethiopia,2012,34,23.8,7.0,45
+ETH,Ethiopia,2016,38,23.4,7.0,40
+EUN,Unified Team,1992,650,24.4,,283
+FIJ,Fiji,1972,4,23.5,0.0,23
+FIJ,Fiji,1976,5,24.0,0.0,38
+FIJ,Fiji,1984,26,25.2,0.0,39
+FIJ,Fiji,1988,41,24.0,0.0,41
+FIJ,Fiji,1992,36,22.8,0.0,26
+FIJ,Fiji,1996,21,23.8,0.0,32
+FIJ,Fiji,2000,9,24.6,0.0,26
+FIJ,Fiji,2004,9,26.9,0.0,54
+FIJ,Fiji,2008,6,30.8,0.0,49
+FIJ,Fiji,2012,9,25.1,0.0,44
+FIJ,Fiji,2016,53,24.9,0.0,30
+FIN,Finland,1964,151,25.9,6.0,16
+FIN,Finland,1968,126,25.1,5.0,36
+FIN,Finland,1972,133,26.9,4.0,33
+FIN,Finland,1976,108,26.5,10.0,49
+FIN,Finland,1980,125,25.8,6.0,43
+FIN,Finland,1984,107,26.5,9.0,61
+FIN,Finland,1988,101,27.7,12.0,42
+FIN,Finland,1992,130,25.5,4.0,46
+FIN,Finland,1996,105,26.0,7.0,47
+FIN,Finland,2000,88,26.2,4.0,41
+FIN,Finland,2004,67,27.3,5.0,33
+FIN,Finland,2008,70,27.3,2.0,57
+FIN,Finland,2012,69,27.5,5.0,53
+FIN,Finland,2016,67,26.4,5.0,45
+FRA,France,1964,214,24.8,12.0,77
+FRA,France,1968,311,24.2,31.0,68
+FRA,France,1972,356,24.4,27.0,62
+FRA,France,1976,302,24.5,22.0,39
+FRA,France,1980,200,23.7,20.0,59
+FRA,France,1984,354,24.3,29.0,95
+FRA,France,1988,413,24.5,67.0,66
+FRA,France,1992,486,25.5,29.0,77
+FRA,France,1996,453,25.3,57.0,100
+FRA,France,2000,470,26.0,51.0,103
+FRA,France,2004,461,26.2,66.0,95
+FRA,France,2008,448,26.4,53.0,118
+FRA,France,2012,426,26.6,77.0,122
+FRA,France,2016,512,27.1,82.0,138
+FRG,West Germany,1968,432,24.9,,103
+FRG,West Germany,1972,587,24.6,51.0,144
+FRG,West Germany,1976,452,24.2,102.0,144
+FRG,West Germany,1984,571,23.9,78.0,193
+FRG,West Germany,1988,516,24.7,158.0,162
+FSM,Federated States of Micronesia,2000,5,22.0,,64
+FSM,Federated States of Micronesia,2004,5,22.6,0.0,37
+FSM,Federated States of Micronesia,2008,5,22.6,0.0,15
+FSM,Federated States of Micronesia,2012,6,27.5,0.0,54
+FSM,Federated States of Micronesia,2016,5,23.8,0.0,35
+GAB,Gabon,1972,1,33.0,,47
+GAB,Gabon,1984,4,21.2,0.0,31
+GAB,Gabon,1988,2,21.5,0.0,51
+GAB,Gabon,1992,5,23.8,0.0,17
+GAB,Gabon,1996,9,27.1,0.0,34
+GAB,Gabon,2000,6,27.5,0.0,49
+GAB,Gabon,2004,5,24.0,0.0,54
+GAB,Gabon,2008,4,25.5,0.0,52
+GAB,Gabon,2012,21,21.9,0.0,47
+GAB,Gabon,2016,6,26.5,1.0,49
+GAM,Gambia,1984,16,25.0,,63
+GAM,Gambia,1988,6,23.5,0.0,52
+GAM,Gambia,1992,8,23.6,0.0,20
+GAM,Gambia,1996,12,22.8,0.0,39
+GAM,Gambia,2000,2,22.0,0.0,58
+GAM,Gambia,2004,3,22.0,0.0,20
+GAM,Gambia,2008,3,21.3,0.0,39
+GAM,Gambia,2012,2,22.0,0.0,51
+GBR,Great Britain,1964,301,25.0,28.0,79
+GBR,Great Britain,1968,328,24.8,28.0,75
+GBR,Great Britain,1972,433,24.3,19.0,54
+GBR,Great Britain,1976,353,24.3,29.0,67
+GBR,Great Britain,1980,328,22.8,32.0,70
+GBR,Great Britain,1984,509,24.5,47.0,132
+GBR,Great Britain,1988,472,25.8,71.0,84
+GBR,Great Britain,1992,512,25.9,54.0,87
+GBR,Great Britain,1996,391,26.7,50.0,63
+GBR,Great Britain,2000,415,26.4,26.0,79
+GBR,Great Britain,2004,360,26.3,54.0,122
+GBR,Great Britain,2008,420,25.3,57.0,131
+GBR,Great Britain,2012,684,25.9,81.0,161
+GBR,Great Britain,2016,478,26.7,126.0,170
+GBS,Guinea Bissau,1996,3,26.3,,23
+GBS,Guinea Bissau,2000,3,26.3,0.0,19
+GBS,Guinea Bissau,2004,3,25.0,0.0,43
+GBS,Guinea Bissau,2008,3,23.7,0.0,10
+GBS,Guinea Bissau,2012,4,25.8,0.0,48
+GBS,Guinea Bissau,2016,5,27.0,0.0,37
+GDR,East Germany,1968,346,24.8,,87
+GDR,East Germany,1972,454,23.3,52.0,180
+GDR,East Germany,1976,407,21.9,151.0,218
+GDR,East Germany,1980,495,22.7,195.0,290
+GDR,East Germany,1988,402,23.1,264.0,214
+GEO,Georgia,1996,42,25.4,,19
+GEO,Georgia,2000,47,25.4,2.0,31
+GEO,Georgia,2004,39,25.4,6.0,57
+GEO,Georgia,2008,38,26.2,4.0,41
+GEO,Georgia,2012,36,25.6,6.0,39
+GEO,Georgia,2016,45,26.8,7.0,35
+GEQ,Equatorial Guinea,1984,5,19.2,,25
+GEQ,Equatorial Guinea,1988,7,22.3,0.0,61
+GEQ,Equatorial Guinea,1992,8,21.4,0.0,45
+GEQ,Equatorial Guinea,1996,8,25.2,0.0,43
+GEQ,Equatorial Guinea,2000,4,21.5,0.0,30
+GEQ,Equatorial Guinea,2004,2,20.5,0.0,17
+GEQ,Equatorial Guinea,2008,3,28.7,0.0,25
+GEQ,Equatorial Guinea,2012,2,26.0,0.0,33
+GEQ,Equatorial Guinea,2016,1,27.0,0.0,42
+GER,Germany,1964,478,24.9,89.0,149
+GER,Germany,1992,653,24.6,116.0,228
+GER,Germany,1996,626,26.4,198.0,175
+GER,Germany,2000,567,26.9,124.0,165
+GER,Germany,2004,592,26.9,118.0,213
+GER,Germany,2008,558,26.8,149.0,136
+GER,Germany,2012,510,26.6,99.0,113
+GER,Germany,2016,536,26.5,94.0,214
+GHA,Ghana,1964,40,24.7,1.0,52
+GHA,Ghana,1968,36,26.0,1.0,17
+GHA,Ghana,1972,41,26.5,0.0,35
+GHA,Ghana,1984,27,23.0,1.0,43
+GHA,Ghana,1988,21,20.8,0.0,53
+GHA,Ghana,1992,41,21.5,0.0,36
+GHA,Ghana,1996,40,22.0,20.0,38
+GHA,Ghana,2000,28,23.2,0.0,47
+GHA,Ghana,2004,29,23.5,0.0,31
+GHA,Ghana,2008,9,23.4,0.0,46
+GHA,Ghana,2012,7,22.7,0.0,22
+GHA,Ghana,2016,15,22.9,0.0,63
+GRE,Proteus II,1964,19,27.7,3.0,35
+GRE,Greece,1968,44,26.1,0.0,59
+GRE,Greece,1972,66,24.4,1.0,62
+GRE,Greece,1976,40,26.0,2.0,13
+GRE,Greece,1980,45,23.7,0.0,33
+GRE,Greece,1984,73,24.2,5.0,19
+GRE,Greece,1988,72,23.5,2.0,30
+GRE,Greece,1992,76,24.9,1.0,55
+GRE,Greece,1996,180,22.3,2.0,46
+GRE,Greece,2000,175,24.4,8.0,55
+GRE,Greece,2004,499,25.6,18.0,66
+GRE,Greece,2008,176,26.0,31.0,57
+GRE,Greece,2012,115,26.5,7.0,48
+GRE,Greece,2016,104,25.8,3.0,58
+GRN,Grenada,1984,6,20.3,,26
+GRN,Grenada,1988,7,24.2,0.0,29
+GRN,Grenada,1996,5,20.0,0.0,35
+GRN,Grenada,2000,3,19.3,0.0,22
+GRN,Grenada,2004,5,22.8,0.0,46
+GRN,Grenada,2008,9,24.8,0.0,36
+GRN,Grenada,2012,8,25.1,0.0,38
+GRN,Grenada,2016,6,22.5,1.0,34
+GUA,Guatemala,1968,67,25.5,0.0,34
+GUA,Guatemala,1972,11,26.9,0.0,38
+GUA,Guatemala,1976,28,25.0,0.0,14
+GUA,Guatemala,1980,10,28.3,0.0,25
+GUA,Guatemala,1984,53,19.7,0.0,60
+GUA,Guatemala,1988,37,24.5,0.0,25
+GUA,Guatemala,1992,41,18.5,0.0,11
+GUA,Guatemala,1996,28,24.8,0.0,24
+GUA,Guatemala,2000,18,25.6,0.0,46
+GUA,Guatemala,2004,19,26.7,0.0,35
+GUA,Guatemala,2008,13,27.5,0.0,30
+GUA,Guatemala,2012,24,23.9,0.0,43
+GUA,Guatemala,2016,25,24.9,1.0,44
+GUI,Guinea,1968,15,23.0,,30
+GUI,Guinea,1980,10,26.7,0.0,31
+GUI,Guinea,1984,1,33.0,0.0,39
+GUI,Guinea,1988,7,19.0,0.0,13
+GUI,Guinea,1992,11,25.0,0.0,40
+GUI,Guinea,1996,5,21.0,0.0,48
+GUI,Guinea,2000,6,23.5,0.0,27
+GUI,Guinea,2004,4,23.0,0.0,38
+GUI,Guinea,2008,5,23.2,0.0,34
+GUI,Guinea,2012,4,22.5,0.0,60
+GUI,Guinea,2016,5,19.8,0.0,30
+GUM,Guam,1988,26,23.9,,56
+GUM,Guam,1992,45,23.6,0.0,49
+GUM,Guam,1996,9,24.7,0.0,62
+GUM,Guam,2000,7,27.7,0.0,30
+GUM,Guam,2004,4,25.2,0.0,51
+GUM,Guam,2008,7,21.4,0.0,38
+GUM,Guam,2012,8,23.6,0.0,66
+GUM,Guam,2016,5,24.0,0.0,40
+GUY,Guyana,1968,6,22.8,0.0,36
+GUY,Guyana,1972,4,22.8,0.0,63
+GUY,Guyana,1980,10,24.1,0.0,66
+GUY,Guyana,1984,12,24.4,1.0,39
+GUY,Guyana,1988,8,25.0,0.0,24
+GUY,Guyana,1992,7,24.9,0.0,60
+GUY,Guyana,1996,9,22.8,0.0,15
+GUY,Guyana,2000,4,23.8,0.0,41
+GUY,Guyana,2004,4,24.8,0.0,52
+GUY,Guyana,2008,4,25.0,0.0,27
+GUY,Guyana,2012,6,23.3,0.0,41
+GUY,Guyana,2016,7,21.7,0.0,33
+HAI,Haiti,1972,7,21.6,0.0,21
+HAI,Haiti,1976,14,24.7,0.0,61
+HAI,Haiti,1984,3,26.0,0.0,42
+HAI,Haiti,1988,5,26.8,0.0,56
+HAI,Haiti,1992,8,28.1,0.0,39
+HAI,Haiti,1996,7,24.1,0.0,53
+HAI,Haiti,2000,5,23.8,0.0,50
+HAI,Haiti,2004,8,25.9,0.0,19
+HAI,Haiti,2008,7,27.0,0.0,29
+HAI,Haiti,2012,5,24.8,0.0,17
+HAI,Haiti,2016,10,25.2,0.0,47
+HKG,Hong Kong,1964,50,27.9,0.0,15
+HKG,Hong Kong,1968,25,25.5,0.0,26
+HKG,Hong Kong,1972,18,25.3,0.0,45
+HKG,Hong Kong,1976,50,26.3,0.0,12
+HKG,Hong Kong,1984,87,23.7,0.0,58
+HKG,Hong Kong,1988,91,23.5,0.0,19
+HKG,Hong Kong,1992,66,22.5,0.0,31
+HKG,Hong Kong,1996,32,27.2,0.0,65
+HKG,Hong Kong,2000,46,21.9,1.0,47
+HKG,Hong Kong,2004,42,23.3,0.0,51
+HKG,Hong Kong,2008,47,25.7,2.0,27
+HKG,Hong Kong,2012,55,24.7,0.0,30
+HKG,Hong Kong,2016,47,25.1,1.0,45
+HON,Honduras,1968,6,20.2,,36
+HON,Honduras,1976,3,22.0,0.0,37
+HON,Honduras,1984,26,23.3,0.0,38
+HON,Honduras,1988,18,19.1,0.0,20
+HON,Honduras,1992,27,21.4,0.0,34
+HON,Honduras,1996,7,24.3,0.0,38
+HON,Honduras,2000,20,22.4,0.0,49
+HON,Honduras,2004,5,22.8,0.0,45
+HON,Honduras,2008,26,22.8,0.0,24
+HON,Honduras,2012,25,22.3,0.0,31
+HON,Honduras,2016,23,23.5,0.0,26
+HUN,Hungary,1964,319,24.5,66.0,84
+HUN,Hungary,1968,303,24.4,56.0,114
+HUN,Hungary,1972,367,24.4,81.0,96
+HUN,Hungary,1976,288,23.7,81.0,119
+HUN,Hungary,1980,392,24.0,55.0,100
+HUN,Hungary,1988,315,23.7,61.0,91
+HUN,Hungary,1992,351,24.1,44.0,80
+HUN,Hungary,1996,315,24.4,45.0,85
+HUN,Hungary,2000,238,25.6,43.0,83
+HUN,Hungary,2004,258,26.0,53.0,73
+HUN,Hungary,2008,216,25.7,40.0,53
+HUN,Hungary,2012,201,25.7,27.0,49
+HUN,Hungary,2016,204,26.8,26.0,72
+INA,Indonesia,1968,6,33.5,0.0,55
+INA,Indonesia,1972,7,24.7,0.0,74
+INA,Indonesia,1976,11,23.5,0.0,39
+INA,Indonesia,1984,23,23.8,0.0,39
+INA,Indonesia,1988,43,21.9,0.0,31
+INA,Indonesia,1992,51,23.5,3.0,43
+INA,Indonesia,1996,45,24.5,6.0,61
+INA,Indonesia,2000,54,24.4,6.0,56
+INA,Indonesia,2004,39,24.4,8.0,32
+INA,Indonesia,2008,26,25.0,5.0,29
+INA,Indonesia,2012,22,23.5,7.0,51
+INA,Indonesia,2016,31,24.5,2.0,47
+IND,India,1964,111,25.7,13.0,47
+IND,India,1968,27,26.3,15.0,52
+IND,India,1972,43,26.0,16.0,34
+IND,India,1976,26,26.7,14.0,36
+IND,India,1980,78,25.5,0.0,41
+IND,India,1984,53,24.9,16.0,34
+IND,India,1988,55,24.1,0.0,38
+IND,India,1992,61,24.4,0.0,49
+IND,India,1996,54,24.6,0.0,57
+IND,India,2000,70,25.4,1.0,37
+IND,India,2004,81,24.7,1.0,41
+IND,India,2008,67,25.4,1.0,21
+IND,India,2012,95,26.0,3.0,17
+IND,India,2016,130,26.1,6.0,29
+IOA,Individual Olympic Athletes,1992,76,23.8,,30
+IOA,Individual Olympic Athletes,2000,4,26.5,3.0,20
+IOA,Individual Olympic Athletes,2012,4,24.8,0.0,54
+IOA,Individual Olympic Athletes,2016,9,34.2,0.0,63
+IRI,Iran,1964,96,26.6,4.0,26
+IRI,Iran,1968,14,26.0,2.0,43
+IRI,Iran,1972,56,25.1,5.0,41
+IRI,Iran,1976,104,25.6,3.0,59
+IRI,Iran,1988,26,22.8,2.0,23
+IRI,Iran,1992,44,25.5,1.0,33
+IRI,Iran,1996,18,24.3,3.0,24
+IRI,Iran,2000,34,24.4,3.0,29
+IRI,Iran,2004,37,24.6,4.0,38
+IRI,Iran,2008,55,25.1,6.0,32
+IRI,Iran,2012,57,25.4,2.0,74
+IRI,Iran,2016,67,26.8,12.0,22
+IRL,Ireland,1964,35,28.5,0.0,14
+IRL,Ireland,1968,57,25.2,1.0,52
+IRL,Ireland,1972,84,26.5,0.0,40
+IRL,Ireland,1976,59,24.5,0.0,26
+IRL,Ireland,1980,57,24.8,0.0,31
+IRL,Ireland,1984,55,24.7,3.0,51
+IRL,Ireland,1988,78,25.7,1.0,35
+IRL,Ireland,1992,77,27.3,0.0,37
+IRL,Ireland,1996,99,27.4,2.0,60
+IRL,Ireland,2000,76,26.9,4.0,43
+IRL,Ireland,2004,55,29.0,1.0,41
+IRL,Ireland,2008,63,27.3,0.0,37
+IRL,Ireland,2012,76,28.5,3.0,46
+IRL,Ireland,2016,93,28.4,5.0,49
+IRQ,Iraq,1964,19,25.3,1.0,50
+IRQ,Iraq,1968,4,26.0,0.0,41
+IRQ,Iraq,1980,44,24.4,0.0,25
+IRQ,Iraq,1984,25,24.3,0.0,47
+IRQ,Iraq,1988,28,25.5,0.0,39
+IRQ,Iraq,1992,8,26.2,0.0,42
+IRQ,Iraq,1996,3,30.3,0.0,40
+IRQ,Iraq,2000,4,24.5,0.0,17
+IRQ,Iraq,2004,24,23.0,0.0,31
+IRQ,Iraq,2008,4,26.5,0.0,22
+IRQ,Iraq,2012,8,22.5,0.0,34
+IRQ,Iraq,2016,20,22.7,0.0,44
+ISL,Iceland,1964,5,24.0,0.0,67
+ISL,Iceland,1968,16,25.1,0.0,59
+ISL,Iceland,1972,30,23.6,0.0,46
+ISL,Iceland,1976,22,21.3,0.0,32
+ISL,Iceland,1980,12,24.0,0.0,28
+ISL,Iceland,1984,35,23.1,0.0,41
+ISL,Iceland,1988,42,24.4,1.0,43
+ISL,Iceland,1992,31,27.1,0.0,35
+ISL,Iceland,1996,15,21.8,0.0,46
+ISL,Iceland,2000,29,22.5,0.0,55
+ISL,Iceland,2004,34,26.0,1.0,27
+ISL,Iceland,2008,31,25.2,0.0,27
+ISL,Iceland,2012,36,26.1,14.0,51
+ISL,Iceland,2016,14,23.9,0.0,18
+ISR,Israel,1964,13,25.2,0.0,48
+ISR,Israel,1968,39,23.5,0.0,34
+ISR,Israel,1972,17,27.7,0.0,48
+ISR,Israel,1976,34,24.3,0.0,49
+ISR,Israel,1984,65,21.9,0.0,34
+ISR,Israel,1988,29,22.5,0.0,24
+ISR,Israel,1992,44,23.5,0.0,43
+ISR,Israel,1996,38,26.6,2.0,22
+ISR,Israel,2000,58,24.2,1.0,45
+ISR,Israel,2004,46,25.9,1.0,48
+ISR,Israel,2008,60,24.6,2.0,46
+ISR,Israel,2012,56,24.5,1.0,29
+ISR,Israel,2016,59,25.0,0.0,34
+ISV,United States Virgin Islands,1968,6,32.8,,43
+ISV,United States Virgin Islands,1972,16,32.3,0.0,31
+ISV,United States Virgin Islands,1976,26,26.6,0.0,29
+ISV,United States Virgin Islands,1984,52,24.8,0.0,41
+ISV,United States Virgin Islands,1988,46,24.8,0.0,27
+ISV,United States Virgin Islands,1992,34,29.0,1.0,38
+ISV,United States Virgin Islands,1996,14,26.1,0.0,65
+ISV,United States Virgin Islands,2000,12,30.9,0.0,57
+ISV,United States Virgin Islands,2004,9,27.1,0.0,24
+ISV,United States Virgin Islands,2008,8,26.1,0.0,20
+ISV,United States Virgin Islands,2012,9,24.0,0.0,53
+ISV,United States Virgin Islands,2016,7,27.3,0.0,40
+ITA,Italy,1964,256,25.0,88.0,77
+ITA,Italy,1968,268,25.8,51.0,72
+ITA,Italy,1972,345,23.7,33.0,73
+ITA,Italy,1976,312,23.9,25.0,68
+ITA,Italy,1980,203,23.7,31.0,67
+ITA,Italy,1984,368,23.9,37.0,106
+ITA,Italy,1988,374,24.1,63.0,59
+ITA,Italy,1992,431,25.2,29.0,86
+ITA,Italy,1996,460,26.2,45.0,113
+ITA,Italy,2000,457,26.0,71.0,120
+ITA,Italy,2004,474,26.1,65.0,161
+ITA,Italy,2008,459,26.8,104.0,90
+ITA,Italy,2012,382,27.1,42.0,115
+ITA,Italy,2016,399,26.8,68.0,94
+IVB,British Virgin Islands,1984,13,27.7,,34
+IVB,British Virgin Islands,1988,4,24.2,0.0,41
+IVB,British Virgin Islands,1992,4,35.0,0.0,40
+IVB,British Virgin Islands,1996,11,22.6,0.0,39
+IVB,British Virgin Islands,2000,1,25.0,0.0,48
+IVB,British Virgin Islands,2004,1,27.0,0.0,39
+IVB,British Virgin Islands,2008,2,25.0,0.0,58
+IVB,British Virgin Islands,2012,2,24.0,0.0,14
+IVB,British Virgin Islands,2016,4,24.0,0.0,37
+JAM,Miss Nippon IV,1964,32,24.1,0.0,40
+JAM,Jamaica,1968,35,23.5,0.0,26
+JAM,Jamaica,1972,51,21.1,1.0,29
+JAM,Jamaica,1976,36,22.9,1.0,44
+JAM,Jamaica,1980,32,22.8,2.0,56
+JAM,Jamaica,1984,75,21.6,3.0,57
+JAM,Jamaica,1988,49,24.0,7.0,47
+JAM,Jamaica,1992,51,24.2,7.0,31
+JAM,Jamaica,1996,69,25.6,4.0,72
+JAM,Jamaica,2000,65,26.1,16.0,54
+JAM,Jamaica,2004,62,24.7,23.0,57
+JAM,Jamaica,2008,66,25.6,13.0,58
+JAM,Jamaica,2012,62,26.1,14.0,62
+JAM,Jamaica,2016,77,25.0,25.0,76
+JOR,Jordan,1980,6,36.7,,31
+JOR,Jordan,1984,15,26.2,0.0,30
+JOR,Jordan,1988,9,22.4,0.0,47
+JOR,Jordan,1992,5,23.6,0.0,37
+JOR,Jordan,1996,5,20.4,0.0,20
+JOR,Jordan,2000,8,24.1,0.0,30
+JOR,Jordan,2004,8,21.5,0.0,38
+JOR,Jordan,2008,7,20.4,0.0,49
+JOR,Jordan,2012,9,24.7,0.0,29
+JOR,Jordan,2016,8,23.9,0.0,33
+JPN,Japan,1964,456,24.3,31.0,119
+JPN,Japan,1968,289,23.5,62.0,95
+JPN,Japan,1972,293,24.2,63.0,90
+JPN,Japan,1976,328,24.3,56.0,59
+JPN,Japan,1984,365,23.5,41.0,77
+JPN,Japan,1988,412,23.9,49.0,55
+JPN,Japan,1992,392,23.7,20.0,66
+JPN,Japan-1,1996,448,23.4,47.0,89
+JPN,Japan,2000,363,25.0,42.0,72
+JPN,Japan-1,2004,414,25.7,44.0,139
+JPN,Japan,2008,457,25.6,93.0,111
+JPN,Japan,2012,399,25.1,51.0,134
+JPN,Japan,2016,436,25.4,84.0,87
+KAZ,Kazakhstan,1996,142,24.6,,63
+KAZ,Kazakhstan,2000,158,26.6,11.0,51
+KAZ,Kazakhstan,2004,130,26.4,7.0,37
+KAZ,Kazakhstan,2008,146,25.7,8.0,59
+KAZ,Kazakhstan,2012,132,26.0,13.0,46
+KAZ,Kazakhstan,2016,123,25.7,13.0,81
+KEN,Kenya,1964,41,26.2,0.0,49
+KEN,Kenya,1968,50,24.5,1.0,62
+KEN,Kenya,1972,69,25.8,12.0,59
+KEN,Kenya,1984,67,25.2,12.0,60
+KEN,Kenya,1988,88,25.9,3.0,49
+KEN,Kenya,1992,55,26.8,9.0,67
+KEN,Kenya,1996,54,26.1,8.0,40
+KEN,Kenya,2000,59,25.1,8.0,16
+KEN,Kenya,2004,46,25.1,7.0,64
+KEN,Kenya,2008,47,24.4,7.0,65
+KEN,Kenya,2012,51,24.6,15.0,41
+KEN,Kenya,2016,80,26.6,11.0,69
+KGZ,Kyrgyzstan,1996,53,22.6,,66
+KGZ,Kyrgyzstan,2000,71,24.9,0.0,31
+KGZ,Kyrgyzstan,2004,32,25.2,1.0,24
+KGZ,Kyrgyzstan,2008,22,24.9,0.0,55
+KGZ,Kyrgyzstan,2012,15,22.9,2.0,30
+KGZ,Kyrgyzstan,2016,19,24.7,0.0,56
+KIR,Kiribati,2004,3,19.0,,60
+KIR,Kiribati,2008,2,23.5,0.0,35
+KIR,Kiribati,2012,3,21.3,0.0,55
+KIR,Kiribati,2016,3,23.3,0.0,28
+KOR,South Korea,1964,240,23.4,0.0,37
+KOR,South Korea,1968,66,23.5,3.0,40
+KOR,South Korea,1972,43,23.9,2.0,44
+KOR,South Korea,1976,51,24.5,1.0,66
+KOR,South Korea,1984,240,21.5,17.0,59
+KOR,South Korea,1988,551,21.7,41.0,93
+KOR,South Korea,1992,322,21.8,77.0,79
+KOR,South Korea,1996,417,22.5,49.0,107
+KOR,South Korea,2000,359,24.1,66.0,106
+KOR,South Korea,2004,344,24.2,73.0,82
+KOR,South Korea,2008,329,24.9,52.0,120
+KOR,South Korea,2012,312,25.5,78.0,78
+KOR,South Korea,2016,263,25.6,61.0,73
+KOS,Kosovo,2016,8,23.9,,19
+KSA,Saudi Arabia,1972,14,23.6,,18
+KSA,Saudi Arabia,1976,19,22.9,0.0,55
+KSA,Saudi Arabia,1984,42,20.9,0.0,31
+KSA,Saudi Arabia,1988,13,23.8,0.0,22
+KSA,Saudi Arabia,1992,17,23.2,0.0,41
+KSA,Saudi Arabia,1996,34,22.9,0.0,20
+KSA,Saudi Arabia,2000,23,23.9,0.0,50
+KSA,Saudi Arabia,2004,16,26.2,2.0,32
+KSA,Saudi Arabia,2008,18,27.6,0.0,47
+KSA,Saudi Arabia,2012,23,30.1,0.0,38
+KSA,Saudi Arabia,2016,11,26.3,4.0,48
+KUW,Kuwait,1972,4,20.8,,38
+KUW,Kuwait,1976,21,20.8,0.0,44
+KUW,Kuwait,1980,67,20.4,0.0,32
+KUW,Kuwait,1984,31,20.8,0.0,39
+KUW,Kuwait,1988,34,21.5,0.0,37
+KUW,Kuwait,1992,37,21.9,0.0,44
+KUW,Kuwait,1996,27,25.4,0.0,37
+KUW,Kuwait,2000,30,23.7,0.0,36
+KUW,Kuwait,2004,11,25.4,1.0,44
+KUW,Kuwait,2008,8,26.1,0.0,49
+KUW,Kuwait,2012,12,30.0,0.0,42
+LAO,Laos,1980,19,21.6,,34
+LAO,Laos,1988,3,22.3,0.0,41
+LAO,Laos,1992,7,25.4,0.0,41
+LAO,Laos,1996,5,22.4,0.0,33
+LAO,Laos,2000,3,23.0,0.0,51
+LAO,Laos,2004,5,20.8,0.0,50
+LAO,Laos,2008,4,19.0,0.0,45
+LAO,Laos,2012,3,18.0,0.0,34
+LAO,Laos,2016,5,19.0,0.0,27
+LAT,Latvia,1992,40,25.3,2.0,49
+LAT,Latvia,1996,55,26.0,3.0,22
+LAT,Latvia,2000,60,26.0,1.0,21
+LAT,Latvia,2004,45,26.4,3.0,48
+LAT,Latvia,2008,53,26.1,4.0,42
+LAT,Latvia,2012,50,26.3,3.0,32
+LAT,Latvia,2016,33,26.6,3.0,22
+LBA,Libya,1988,7,25.6,,32
+LBA,Libya,1992,5,25.5,0.0,34
+LBA,Libya,1996,5,23.4,0.0,55
+LBA,Libya,2000,3,25.7,0.0,54
+LBA,Libya,2004,8,20.8,0.0,36
+LBA,Libya,2008,6,22.3,0.0,55
+LBA,Libya,2012,4,25.8,0.0,47
+LBA,Libya,2016,7,22.9,0.0,41
+LBR,Liberia,1964,2,20.0,0.0,30
+LBR,Liberia,1972,5,23.6,0.0,21
+LBR,Liberia,1984,10,21.0,0.0,48
+LBR,Liberia,1988,11,23.5,0.0,51
+LBR,Liberia,1996,7,22.6,0.0,37
+LBR,Liberia,2000,10,24.9,0.0,44
+LBR,Liberia,2004,2,23.0,0.0,37
+LBR,Liberia,2008,4,27.8,0.0,21
+LBR,Liberia,2012,3,27.3,0.0,42
+LCA,Saint Lucia,1996,8,23.8,,33
+LCA,Saint Lucia,2000,5,22.2,0.0,42
+LCA,Saint Lucia,2004,2,22.5,0.0,50
+LCA,Saint Lucia,2008,4,24.5,0.0,46
+LCA,Saint Lucia,2012,4,26.2,0.0,57
+LCA,Saint Lucia,2016,5,24.2,0.0,59
+LES,Lesotho,1972,2,27.0,,31
+LES,Lesotho,1980,7,26.7,0.0,34
+LES,Lesotho,1984,5,29.2,0.0,66
+LES,Lesotho,1988,6,23.3,0.0,35
+LES,Lesotho,1992,8,21.4,0.0,35
+LES,Lesotho,1996,11,23.6,0.0,54
+LES,Lesotho,2000,6,24.2,0.0,61
+LES,Lesotho,2004,3,23.0,0.0,24
+LES,Lesotho,2008,5,28.8,0.0,40
+LES,Lesotho,2012,4,24.0,0.0,43
+LES,Lesotho,2016,9,25.8,0.0,11
+LIB,Lebanon,1964,8,31.1,0.0,19
+LIB,Lebanon,1968,15,26.6,0.0,43
+LIB,Lebanon,1972,36,24.7,0.0,31
+LIB,Lebanon,1976,4,20.7,1.0,39
+LIB,Lebanon,1980,19,25.2,0.0,46
+LIB,Lebanon,1984,30,25.1,1.0,45
+LIB,Lebanon,1988,31,21.3,0.0,30
+LIB,Lebanon,1992,18,22.8,0.0,49
+LIB,Lebanon,2000,6,22.8,0.0,35
+LIB,Lebanon,2004,5,23.0,0.0,31
+LIB,Lebanon,2008,6,24.7,0.0,34
+LIB,Lebanon,2012,10,21.8,0.0,25
+LIB,Lebanon,2016,9,26.4,0.0,53
+LIE,Liechtenstein,1964,3,23.7,0.0,42
+LIE,Liechtenstein,1968,3,22.0,0.0,58
+LIE,Liechtenstein,1972,12,25.2,0.0,30
+LIE,Liechtenstein,1976,9,23.1,0.0,48
+LIE,Liechtenstein,1984,8,26.6,0.0,26
+LIE,Liechtenstein,1988,16,24.2,0.0,39
+LIE,Liechtenstein,1992,8,26.5,0.0,31
+LIE,Liechtenstein,1996,2,29.0,0.0,51
+LIE,Liechtenstein,2000,2,21.5,0.0,33
+LIE,Liechtenstein,2004,1,25.0,0.0,22
+LIE,Liechtenstein,2008,2,31.5,0.0,18
+LIE,Liechtenstein,2012,4,24.5,0.0,55
+LIE,Liechtenstein,2016,3,24.0,0.0,28
+LTU,Lithuania,1992,54,25.6,,56
+LTU,Lithuania,1996,81,25.4,13.0,47
+LTU,Lithuania,2000,77,25.3,11.0,34
+LTU,Lithuania,2004,70,25.8,17.0,40
+LTU,Lithuania,2008,78,26.2,3.0,49
+LTU,Lithuania,2012,72,26.2,5.0,51
+LTU,Lithuania,2016,80,26.3,5.0,33
+LUX,Luxembourg,1964,27,27.5,0.0,21
+LUX,Luxembourg,1968,7,28.0,0.0,31
+LUX,Luxembourg,1972,15,29.7,0.0,40
+LUX,Luxembourg,1976,9,28.2,0.0,29
+LUX,Luxembourg,1980,4,30.0,0.0,62
+LUX,Luxembourg,1984,5,35.2,0.0,34
+LUX,Luxembourg,1988,11,25.6,0.0,39
+LUX,Luxembourg,1992,8,31.1,0.0,33
+LUX,Luxembourg,1996,7,33.4,0.0,38
+LUX,Luxembourg,2000,9,26.7,0.0,37
+LUX,Luxembourg,2004,14,23.7,0.0,53
+LUX,Luxembourg,2008,19,25.3,0.0,41
+LUX,Luxembourg,2012,11,27.4,0.0,44
+LUX,Luxembourg,2016,15,27.7,0.0,49
+MAD,Madagascar,1964,4,23.8,,22
+MAD,Madagascar,1968,6,25.3,0.0,42
+MAD,Madagascar,1972,13,25.6,0.0,30
+MAD,Madagascar,1980,18,19.1,0.0,45
+MAD,Madagascar,1984,5,23.8,0.0,42
+MAD,Madagascar,1992,17,22.4,0.0,38
+MAD,Madagascar,1996,14,23.2,0.0,26
+MAD,Madagascar,2000,13,25.8,0.0,46
+MAD,Madagascar,2004,8,26.0,0.0,61
+MAD,Madagascar,2008,6,25.8,0.0,44
+MAD,Madagascar,2012,7,24.7,0.0,32
+MAD,Madagascar,2016,6,26.8,0.0,45
+MAR,Morocco,1964,21,23.8,1.0,38
+MAR,Morocco,1968,25,23.9,0.0,55
+MAR,Morocco,1972,39,23.8,0.0,51
+MAR,Morocco,1976,9,25.2,0.0,29
+MAR,Morocco,1984,35,25.5,0.0,48
+MAR,Morocco,1988,29,25.1,2.0,18
+MAR,Morocco,1992,45,23.6,3.0,38
+MAR,Morocco,1996,38,25.5,3.0,51
+MAR,Morocco,2000,55,24.6,2.0,44
+MAR,Morocco,2004,57,25.5,5.0,46
+MAR,Morocco,2008,49,26.9,3.0,64
+MAR,Morocco,2012,67,25.7,2.0,42
+MAR,Morocco,2016,52,26.5,1.0,48
+MAS,Malaysia,1964,81,24.2,,49
+MAS,Malaysia,1968,35,24.6,0.0,36
+MAS,Malaysia,1972,57,23.7,0.0,35
+MAS,Malaysia,1976,25,25.2,0.0,15
+MAS,Malaysia,1984,27,23.6,0.0,38
+MAS,Malaysia,1988,17,20.9,0.0,38
+MAS,Malaysia,1992,30,25.1,0.0,32
+MAS,Malaysia-1,1996,43,22.7,2.0,32
+MAS,Malaysia,2000,55,22.2,3.0,28
+MAS,Malaysia,2004,38,22.8,0.0,10
+MAS,Malaysia,2008,42,23.3,0.0,33
+MAS,Malaysia,2012,38,23.2,1.0,51
+MAS,Malaysia,2016,42,24.0,2.0,59
+MAW,Malawi,1972,18,22.3,,31
+MAW,Malawi,1984,23,25.9,0.0,66
+MAW,Malawi,1988,22,26.8,0.0,46
+MAW,Malawi,1992,4,21.5,0.0,54
+MAW,Malawi,1996,2,26.5,0.0,20
+MAW,Malawi,2000,2,21.0,0.0,54
+MAW,Malawi,2004,4,20.5,0.0,25
+MAW,Malawi,2008,4,19.0,0.0,32
+MAW,Malawi,2012,3,23.0,0.0,40
+MAW,Malawi,2016,5,21.6,0.0,29
+MDA,Moldova,1996,50,24.7,,50
+MDA,Moldova,2000,35,24.7,3.0,47
+MDA,Moldova,2004,33,25.9,2.0,54
+MDA,Moldova,2008,30,27.1,0.0,49
+MDA,Moldova,2012,20,24.2,1.0,36
+MDA,Moldova,2016,23,26.3,2.0,57
+MDV,Maldives,1988,9,19.9,,32
+MDV,Maldives,1992,10,22.5,0.0,56
+MDV,Maldives,1996,9,22.4,0.0,25
+MDV,Maldives,2000,4,18.2,0.0,63
+MDV,Maldives,2004,4,20.2,0.0,32
+MDV,Maldives,2008,4,20.2,0.0,42
+MDV,Maldives,2012,5,19.4,0.0,40
+MDV,Maldives,2016,4,21.8,0.0,34
+MEX,Mexico,1964,128,25.9,1.0,41
+MEX,Mexico,1968,446,22.5,1.0,44
+MEX,Mexico,1972,281,22.6,9.0,41
+MEX,Mexico,1976,137,23.9,1.0,41
+MEX,Mexico,1980,74,24.4,2.0,41
+MEX,Mexico,1984,155,23.9,10.0,43
+MEX,Mexico,1988,144,23.9,6.0,41
+MEX,Mexico,1992,140,24.1,2.0,24
+MEX,Mexico,1996,111,24.8,1.0,46
+MEX,Mexico,2000,98,25.7,1.0,43
+MEX,Mexico,2004,137,25.8,6.0,45
+MEX,Mexico,2008,103,25.7,4.0,50
+MEX,Mexico,2012,119,25.2,4.0,63
+MEX,Mexico,2016,139,25.4,24.0,44
+MGL,Mongolia,1964,40,20.8,,27
+MGL,Mongolia,1968,38,22.4,0.0,38
+MGL,Mongolia,1972,44,26.6,4.0,49
+MGL,Mongolia,1976,33,26.3,1.0,48
+MGL,Mongolia,1980,57,23.5,1.0,36
+MGL,Mongolia,1988,32,24.2,4.0,31
+MGL,Mongolia,1992,38,25.0,1.0,42
+MGL,Mongolia,1996,18,24.9,2.0,40
+MGL,Mongolia,2000,23,26.0,1.0,34
+MGL,Mongolia,2004,21,24.5,0.0,22
+MGL,Mongolia,2008,31,26.2,1.0,60
+MGL,Mongolia,2012,32,26.1,4.0,47
+MGL,Mongolia,2016,46,26.7,5.0,40
+MHL,Marshall Islands,2008,5,21.6,,13
+MHL,Marshall Islands,2012,4,20.5,0.0,23
+MHL,Marshall Islands,2016,5,18.8,0.0,58
+MKD,Macedonia,1996,16,20.8,,26
+MKD,Macedonia,2000,15,20.9,0.0,58
+MKD,Macedonia,2004,14,24.4,1.0,23
+MKD,Macedonia,2008,7,23.9,0.0,35
+MKD,Macedonia,2012,4,19.5,0.0,38
+MKD,Macedonia,2016,6,22.2,0.0,39
+MLI,Mali,1964,2,23.0,,37
+MLI,Mali,1968,2,26.0,0.0,49
+MLI,Mali,1972,3,29.7,0.0,53
+MLI,Mali,1980,7,25.0,0.0,65
+MLI,Mali,1984,5,24.8,0.0,33
+MLI,Mali,1988,8,21.4,0.0,24
+MLI,Mali,1992,6,24.0,0.0,21
+MLI,Mali,1996,4,26.5,0.0,48
+MLI,Mali,2000,5,19.8,0.0,43
+MLI,Mali,2004,21,21.5,0.0,57
+MLI,Mali,2008,17,24.2,0.0,36
+MLI,Mali,2012,6,25.5,0.0,51
+MLI,Mali,2016,6,26.8,0.0,33
+MLT,Malta,1968,1,33.0,0.0,37
+MLT,Malta,1972,5,25.6,0.0,45
+MLT,Malta,1980,12,25.9,0.0,20
+MLT,Malta,1984,7,26.9,0.0,47
+MLT,Malta,1988,6,23.7,0.0,32
+MLT,Malta,1992,8,25.9,0.0,44
+MLT,Malta,1996,10,26.1,0.0,41
+MLT,Malta,2000,7,25.7,0.0,51
+MLT,Malta,2004,7,22.6,0.0,43
+MLT,Malta,2008,6,22.2,0.0,31
+MLT,Malta,2012,5,24.4,0.0,38
+MLT,Malta,2016,8,28.1,0.0,39
+MNE,Montenegro,2008,20,27.4,,36
+MNE,Montenegro,2012,34,27.5,0.0,66
+MNE,Montenegro,2016,35,27.6,14.0,49
+MON,Monaco,1964,1,24.0,0.0,50
+MON,Monaco,1968,2,29.5,0.0,31
+MON,Monaco,1972,5,40.0,0.0,38
+MON,Monaco,1976,10,36.3,0.0,33
+MON,Monaco,1984,8,31.9,0.0,48
+MON,Monaco,1988,9,26.3,0.0,34
+MON,Monaco,1992,4,20.8,0.0,51
+MON,Monaco,1996,4,24.0,0.0,65
+MON,Monaco,2000,4,25.8,0.0,40
+MON,Monaco,2004,3,31.7,0.0,48
+MON,Monaco,2008,5,29.0,0.0,53
+MON,Monaco,2012,6,28.8,0.0,61
+MON,Monaco,2016,8,25.8,0.0,32
+MOZ,Mozambique,1980,16,24.8,,29
+MOZ,Mozambique,1984,14,25.6,0.0,20
+MOZ,Mozambique,1988,12,20.7,0.0,48
+MOZ,Mozambique,1992,7,21.7,0.0,43
+MOZ,Mozambique,1996,3,23.7,0.0,64
+MOZ,Mozambique,2000,4,23.5,1.0,41
+MOZ,Mozambique,2004,4,21.8,1.0,40
+MOZ,Mozambique,2008,4,23.5,0.0,42
+MOZ,Mozambique,2012,6,22.2,0.0,24
+MOZ,Mozambique,2016,8,24.1,0.0,49
+MRI,Mauritius,1984,7,19.6,,43
+MRI,Mauritius,1988,11,24.9,0.0,47
+MRI,Mauritius,1992,22,20.0,0.0,40
+MRI,Mauritius,1996,36,23.9,0.0,26
+MRI,Mauritius,2000,26,23.2,0.0,27
+MRI,Mauritius,2004,9,24.2,0.0,28
+MRI,Mauritius,2008,11,26.7,0.0,59
+MRI,Mauritius,2012,11,24.1,1.0,57
+MRI,Mauritius,2016,11,24.5,0.0,55
+MTN,Mauritania,1984,2,24.0,,60
+MTN,Mauritania,1988,7,26.0,0.0,61
+MTN,Mauritania,1992,6,25.8,0.0,17
+MTN,Mauritania,1996,4,28.5,0.0,40
+MTN,Mauritania,2000,2,17.0,0.0,44
+MTN,Mauritania,2004,2,23.5,0.0,57
+MTN,Mauritania,2008,2,20.5,0.0,30
+MTN,Mauritania,2012,2,22.5,0.0,24
+MTN,Mauritania,2016,2,27.5,0.0,57
+MYA,Myanmar,1964,12,26.0,0.0,31
+MYA,Myanmar,1968,4,26.5,0.0,37
+MYA,Myanmar,1972,19,23.3,0.0,51
+MYA,Myanmar,1980,2,28.5,0.0,47
+MYA,Myanmar,1984,1,26.0,0.0,42
+MYA,Myanmar,1988,3,26.7,0.0,31
+MYA,Myanmar,1992,5,27.0,0.0,42
+MYA,Myanmar,1996,3,37.7,0.0,35
+MYA,Myanmar,2000,7,23.7,0.0,47
+MYA,Myanmar,2004,2,26.5,0.0,31
+MYA,Myanmar,2008,7,24.7,0.0,39
+MYA,Myanmar,2012,6,28.0,0.0,16
+MYA,Myanmar,2016,8,27.1,0.0,64
+NAM,Namibia,1992,10,21.9,,31
+NAM,Namibia,1996,10,26.9,2.0,28
+NAM,Namibia,2000,16,26.1,2.0,38
+NAM,Namibia,2004,10,32.8,0.0,43
+NAM,Namibia,2008,11,29.5,0.0,28
+NAM,Namibia,2012,9,27.4,0.0,65
+NAM,Namibia,2016,11,30.9,0.0,25
+NCA,Nicaragua,1968,16,22.7,,35
+NCA,Nicaragua,1972,10,23.4,0.0,18
+NCA,Nicaragua,1976,25,20.1,0.0,26
+NCA,Nicaragua,1980,6,17.3,0.0,56
+NCA,Nicaragua,1984,5,23.4,0.0,35
+NCA,Nicaragua,1992,9,25.2,0.0,31
+NCA,Nicaragua,1996,28,26.2,0.0,31
+NCA,Nicaragua,2000,6,26.2,0.0,33
+NCA,Nicaragua,2004,6,23.3,0.0,19
+NCA,Nicaragua,2008,7,26.7,0.0,56
+NCA,Nicaragua,2012,6,24.7,0.0,36
+NCA,Nicaragua,2016,5,21.4,0.0,34
+NED,Netherlands,1964,158,23.5,3.0,77
+NED,Netherlands,1968,140,23.6,31.0,71
+NED,Netherlands,1972,199,22.6,14.0,33
+NED,Netherlands,1976,175,22.6,6.0,42
+NED,Netherlands,1980,112,23.1,14.0,46
+NED,Netherlands,1984,185,24.1,6.0,67
+NED,Netherlands,1988,202,25.0,41.0,90
+NED,Netherlands,1992,257,25.4,45.0,84
+NED,Netherlands,1996,290,26.3,33.0,96
+NED,Netherlands,2000,285,27.2,73.0,139
+NED,Netherlands,2004,264,26.7,79.0,107
+NED,Netherlands,2008,283,26.7,77.0,103
+NED,Netherlands,2012,222,27.1,61.0,128
+NED,Netherlands,2016,329,26.7,69.0,110
+NEP,Nepal,1964,6,21.3,,38
+NEP,Nepal,1976,1,23.0,0.0,46
+NEP,Nepal,1980,10,23.6,0.0,23
+NEP,Nepal,1984,10,27.0,0.0,50
+NEP,Nepal,1988,20,25.1,0.0,26
+NEP,Nepal,1992,2,26.0,0.0,62
+NEP,Nepal,1996,6,26.0,0.0,19
+NEP,Nepal,2000,5,25.2,0.0,59
+NEP,Nepal,2004,6,26.7,0.0,48
+NEP,Nepal,2008,8,27.1,0.0,48
+NEP,Nepal,2012,5,21.0,0.0,43
+NEP,Nepal,2016,7,22.3,0.0,58
+NGR,Nigeria,1964,19,24.4,0.0,53
+NGR,Nigeria,1968,46,24.0,1.0,49
+NGR,Nigeria,1972,36,25.3,0.0,57
+NGR,Nigeria,1980,56,23.1,1.0,40
+NGR,Nigeria,1984,36,23.1,0.0,47
+NGR,Nigeria,1988,86,23.5,5.0,57
+NGR,Nigeria,1992,72,22.3,0.0,47
+NGR,Nigeria,1996,84,23.1,11.0,81
+NGR,Nigeria,2000,100,23.9,24.0,44
+NGR,Nigeria,2004,79,24.3,8.0,42
+NGR,Nigeria,2008,89,23.8,8.0,82
+NGR,Nigeria,2012,58,25.1,23.0,28
+NGR,Nigeria,2016,77,25.6,0.0,65
+NIG,Niger,1984,4,24.5,,43
+NIG,Niger,2004,4,21.0,0.0,42
+NIG,Niger,2012,6,23.7,0.0,22
+NIG,Niger,2016,6,20.8,0.0,56
+NOR,Norway,1964,43,26.3,2.0,57
+NOR,Norway,1968,86,22.5,0.0,60
+NOR,Norway,1972,161,24.2,6.0,65
+NOR,Norway,1976,79,24.1,8.0,28
+NOR,Norway,1984,132,24.5,6.0,54
+NOR,Norway,1988,79,25.0,4.0,44
+NOR,Norway,1992,114,23.6,22.0,66
+NOR,Norway,1996,116,25.5,23.0,57
+NOR,Norway,2000,115,27.2,23.0,62
+NOR,Norway,2004,60,29.3,43.0,38
+NOR,Norway,2008,102,28.2,7.0,66
+NOR,Norway,2012,69,27.3,22.0,56
+NOR,Norway,2016,77,26.7,17.0,38
+NRU,Nauru,1996,3,22.7,,47
+NRU,Nauru,2000,2,26.5,0.0,42
+NRU,Nauru,2004,3,19.7,0.0,38
+NRU,Nauru,2008,1,21.0,0.0,45
+NRU,Nauru,2012,2,27.0,0.0,50
+NRU,Nauru,2016,2,25.0,0.0,36
+NZL,New Zealand,1964,88,25.5,3.0,24
+NZL,New Zealand,1968,65,24.1,6.0,43
+NZL,New Zealand,1972,112,24.7,7.0,76
+NZL,New Zealand,1976,98,24.7,14.0,58
+NZL,New Zealand,1980,7,26.4,25.0,32
+NZL,New Zealand,1984,162,24.8,0.0,79
+NZL,New Zealand,1988,112,27.1,23.0,57
+NZL,New Zealand,1992,175,26.4,24.0,46
+NZL,New Zealand,1996,129,25.6,15.0,57
+NZL,New Zealand,2000,177,27.1,9.0,35
+NZL,New Zealand,2004,184,26.6,4.0,42
+NZL,New Zealand,2008,201,26.5,6.0,62
+NZL,New Zealand,2012,204,26.1,15.0,56
+NZL,New Zealand,2016,232,26.0,27.0,55
+OMA,Oman,1984,22,22.4,,68
+OMA,Oman,1988,13,25.0,0.0,35
+OMA,Oman,1992,5,26.4,0.0,40
+OMA,Oman,1996,5,25.8,0.0,52
+OMA,Oman,2000,8,28.2,0.0,45
+OMA,Oman,2004,2,30.5,0.0,44
+OMA,Oman,2008,4,26.8,0.0,46
+OMA,Oman,2012,3,23.3,0.0,39
+OMA,Oman,2016,4,25.8,0.0,40
+PAK,Pakistan,1964,47,26.8,14.0,50
+PAK,Pakistan,1968,15,25.5,16.0,42
+PAK,Pakistan,1972,26,24.2,13.0,52
+PAK,Pakistan,1976,24,25.6,15.0,79
+PAK,Pakistan,1984,33,24.2,16.0,33
+PAK,Pakistan,1988,33,23.0,16.0,41
+PAK,Pakistan,1992,28,23.8,1.0,65
+PAK,Pakistan,1996,24,23.8,16.0,43
+PAK,Pakistan,2000,27,24.4,0.0,38
+PAK,Pakistan,2004,26,25.3,0.0,21
+PAK,Pakistan,2008,22,24.0,0.0,58
+PAK,Pakistan,2012,21,25.7,0.0,15
+PAK,Pakistan,2016,7,22.9,0.0,55
+PAN,Panama,1964,15,23.3,0.0,35
+PAN,Panama,1968,16,25.8,0.0,34
+PAN,Panama,1972,8,27.0,0.0,41
+PAN,Panama,1976,13,21.0,0.0,41
+PAN,Panama,1984,10,21.7,0.0,45
+PAN,Panama,1988,9,23.9,0.0,21
+PAN,Panama,1992,7,28.0,0.0,61
+PAN,Panama,1996,9,22.4,0.0,37
+PAN,Panama,2000,7,24.1,0.0,21
+PAN,Panama,2004,5,22.4,0.0,62
+PAN,Panama,2008,5,23.6,0.0,32
+PAN,Panama,2012,8,22.9,1.0,33
+PAN,Panama,2016,14,27.4,0.0,41
+PAR,Paraguay,1972,3,25.7,,39
+PAR,Paraguay,1976,6,27.8,0.0,26
+PAR,Paraguay,1984,18,27.6,0.0,36
+PAR,Paraguay,1988,13,27.4,0.0,55
+PAR,Paraguay,1992,31,19.9,0.0,60
+PAR,Paraguay,1996,7,22.6,0.0,28
+PAR,Paraguay,2000,5,20.0,0.0,32
+PAR,Paraguay,2004,22,23.3,0.0,63
+PAR,Paraguay,2008,7,22.3,17.0,31
+PAR,Paraguay,2012,10,22.9,0.0,26
+PAR,Paraguay,2016,11,29.5,0.0,17
+PER,Peru,1964,40,26.1,0.0,38
+PER,Peru,1968,33,24.1,0.0,28
+PER,Peru,1972,31,22.2,0.0,43
+PER,Peru,1976,14,21.6,0.0,41
+PER,Peru,1980,38,22.6,0.0,20
+PER,Peru,1984,44,21.7,0.0,25
+PER,Peru,1988,26,24.6,1.0,45
+PER,Peru,1992,21,24.7,12.0,36
+PER,Peru,1996,33,23.9,1.0,31
+PER,Peru,2000,22,26.5,0.0,26
+PER,Peru,2004,14,26.6,0.0,25
+PER,Peru,2008,13,24.9,0.0,51
+PER,Peru,2012,16,24.3,0.0,42
+PER,Peru,2016,34,25.7,0.0,22
+PHI,Kalayaan,1964,70,25.8,0.0,46
+PHI,Philippines,1968,89,24.3,1.0,36
+PHI,Philippines,1972,79,24.5,0.0,25
+PHI,Philippines,1976,22,25.2,0.0,56
+PHI,Philippines,1984,32,23.4,0.0,30
+PHI,Philippines,1988,42,22.1,0.0,49
+PHI,Philippines,1992,38,24.8,1.0,42
+PHI,Philippines,1996,18,26.7,1.0,26
+PHI,Philippines,2000,22,21.8,1.0,49
+PHI,Philippines,2004,21,22.3,0.0,35
+PHI,Philippines,2008,17,22.9,0.0,50
+PHI,Philippines,2012,11,25.3,0.0,37
+PHI,Philippines,2016,13,24.8,0.0,7
+PLE,Palestine,1996,1,33.0,,33
+PLE,Palestine,2000,2,22.5,0.0,14
+PLE,Palestine,2004,3,20.3,0.0,43
+PLE,Palestine,2008,4,20.8,0.0,28
+PLE,Palestine,2012,5,21.6,0.0,16
+PLE,Palestine,2016,6,29.0,0.0,25
+PLW,Palau,2000,5,21.2,,28
+PLW,Palau,2004,4,25.8,0.0,57
+PLW,Palau,2008,5,23.2,0.0,26
+PLW,Palau,2012,5,21.4,0.0,37
+PLW,Palau,2016,6,22.5,0.0,30
+PNG,Papua New Guinea,1976,9,23.3,,34
+PNG,Papua New Guinea,1984,12,26.0,0.0,33
+PNG,Papua New Guinea,1988,15,24.3,0.0,47
+PNG,Papua New Guinea,1992,19,24.0,0.0,31
+PNG,Papua New Guinea,1996,17,23.2,0.0,57
+PNG,Papua New Guinea,2000,5,18.6,0.0,44
+PNG,Papua New Guinea,2004,6,21.7,0.0,61
+PNG,Papua New Guinea,2008,9,24.6,0.0,54
+PNG,Papua New Guinea,2012,8,24.6,0.0,69
+PNG,Papua New Guinea,2016,8,26.2,0.0,61
+POL,Poland,1964,240,25.7,30.0,63
+POL,Poland,1968,296,24.6,46.0,71
+POL,Poland,1972,418,24.4,37.0,102
+POL,Poland,1976,286,25.1,46.0,104
+POL,Poland,1980,418,24.2,73.0,89
+POL,Poland,1988,192,25.5,50.0,66
+POL,Poland,1992,263,24.3,21.0,75
+POL,Poland,1996,207,25.5,46.0,81
+POL,Poland,2000,240,25.4,22.0,96
+POL,Poland,2004,224,25.4,24.0,48
+POL,Poland,2008,316,26.4,12.0,71
+POL,Poland,2012,256,26.5,20.0,40
+POL,Poland,2016,289,27.1,12.0,58
+POR,Portugal,1964,25,29.1,2.0,18
+POR,Portugal,1968,33,26.0,0.0,51
+POR,Portugal,1972,41,30.6,0.0,50
+POR,Portugal,1976,36,20.9,0.0,23
+POR,Portugal,1980,18,21.4,2.0,56
+POR,Portugal,1984,48,25.6,0.0,55
+POR,Portugal,1988,91,23.3,3.0,37
+POR,Portugal,1992,115,25.0,1.0,45
+POR,Portugal,1996,131,23.7,0.0,25
+POR,Portugal,2000,64,27.6,3.0,53
+POR,Portugal,2004,93,25.6,2.0,26
+POR,Portugal,2008,87,27.8,3.0,63
+POR,Portugal,2012,98,27.8,2.0,28
+POR,Portugal,2016,106,27.9,2.0,29
+PRK,North Korea,1972,83,25.0,,65
+PRK,North Korea,1976,40,25.0,15.0,14
+PRK,North Korea,1980,121,20.7,2.0,34
+PRK,North Korea,1992,123,21.2,5.0,41
+PRK,North Korea-1,1996,36,21.9,10.0,27
+PRK,North Korea,2000,47,23.3,5.0,52
+PRK,North Korea,2004,71,20.8,4.0,49
+PRK,North Korea,2008,66,23.9,5.0,37
+PRK,North Korea,2012,57,22.0,6.0,42
+PRK,North Korea,2016,38,25.3,6.0,49
+PUR,Puerto Rico,1964,45,22.9,0.0,50
+PUR,Puerto Rico,1968,99,22.9,0.0,14
+PUR,Puerto Rico,1972,60,25.5,0.0,54
+PUR,Puerto Rico,1976,112,22.9,0.0,40
+PUR,Puerto Rico,1980,3,19.0,1.0,58
+PUR,Puerto Rico,1984,58,24.5,0.0,38
+PUR,Puerto Rico,1988,56,23.7,2.0,30
+PUR,Puerto Rico,1992,101,24.6,0.0,43
+PUR,Puerto Rico,1996,91,26.1,1.0,34
+PUR,Puerto Rico,2000,38,25.4,1.0,20
+PUR,Puerto Rico,2004,52,26.4,0.0,16
+PUR,Puerto Rico,2008,31,22.8,0.0,47
+PUR,Puerto Rico,2012,28,23.3,0.0,40
+PUR,Puerto Rico,2016,41,25.7,2.0,59
+QAT,Qatar,1984,26,20.6,,46
+QAT,Qatar,1988,13,22.5,0.0,61
+QAT,Qatar,1992,30,20.7,0.0,25
+QAT,Qatar,1996,13,23.2,1.0,55
+QAT,Qatar,2000,19,23.3,0.0,60
+QAT,Qatar,2004,15,22.1,1.0,36
+QAT,Qatar,2008,20,24.2,0.0,26
+QAT,Qatar,2012,14,22.6,0.0,52
+QAT,Qatar,2016,42,27.0,2.0,30
+ROT,Refugee Olympic Athletes,2016,12,23.9,,34
+ROU,Romania,1964,232,25.6,15.0,56
+ROU,Romania,1968,100,25.4,16.0,97
+ROU,Romania,1972,258,24.2,23.0,71
+ROU,Romania,1976,255,23.6,40.0,100
+ROU,Romania,1980,339,24.3,55.0,125
+ROU,Romania,1984,193,23.1,68.0,146
+ROU,Romania,1988,172,21.9,106.0,84
+ROU,Romania,1992,306,22.3,58.0,100
+ROU,Romania,1996,284,23.0,53.0,94
+ROU,Romania,2000,252,23.6,38.0,98
+ROU,Romania,2004,193,24.8,46.0,91
+ROU,Romania,2008,172,24.3,39.0,65
+ROU,Romania,2012,155,25.1,22.0,65
+ROU,Romania,2016,121,26.6,16.0,32
+RSA,South Africa,1992,141,25.7,3.0,32
+RSA,South Africa,1996,111,24.0,3.0,41
+RSA,South Africa,2000,161,24.9,5.0,29
+RSA,South Africa,2004,128,25.4,5.0,57
+RSA,South Africa,2008,179,24.9,10.0,48
+RSA,South Africa,2012,145,25.4,1.0,64
+RSA,South Africa,2016,155,25.3,9.0,57
+RUS,Russia,1996,552,24.3,14.0,155
+RUS,Russia,2000,602,25.2,115.0,227
+RUS,Russia,2004,593,26.0,187.0,210
+RUS,Russia-2,2008,600,25.4,189.0,184
+RUS,Russia,2012,549,25.4,142.0,187
+RUS,Russia,2016,406,25.4,140.0,152
+RWA,Rwanda,1984,6,25.0,,46
+RWA,Rwanda,1988,8,23.0,0.0,41
+RWA,Rwanda,1992,10,23.7,0.0,48
+RWA,Rwanda,1996,4,22.5,0.0,37
+RWA,Rwanda,2000,5,21.8,0.0,36
+RWA,Rwanda,2004,5,26.0,0.0,31
+RWA,Rwanda,2008,4,24.8,0.0,29
+RWA,Rwanda,2012,7,23.7,0.0,48
+RWA,Rwanda,2016,7,27.3,0.0,37
+SAM,Samoa,1984,9,26.6,,54
+SAM,Samoa,1988,11,23.0,0.0,13
+SAM,Samoa,1992,5,24.0,0.0,41
+SAM,Samoa,1996,5,23.2,0.0,38
+SAM,Samoa,2004,3,26.7,0.0,68
+SAM,Samoa,2008,7,29.1,0.0,31
+SAM,Samoa,2012,9,28.1,0.0,68
+SAM,Samoa,2016,9,26.3,0.0,41
+SCG,Serbia and Montenegro,1996,79,25.4,,43
+SCG,Serbia and Montenegro,2000,125,25.5,26.0,66
+SCG,Serbia and Montenegro,2004,96,25.4,25.0,47
+SEN,Senegal,1964,14,23.8,,22
+SEN,Senegal,1968,24,26.6,0.0,18
+SEN,Senegal,1972,40,25.9,0.0,18
+SEN,Senegal,1976,33,27.4,0.0,35
+SEN,Senegal,1980,39,24.7,0.0,43
+SEN,Senegal,1984,29,26.4,0.0,40
+SEN,Senegal,1988,35,25.1,0.0,42
+SEN,Senegal,1992,25,27.2,1.0,44
+SEN,Senegal,1996,12,27.5,0.0,19
+SEN,Senegal,2000,32,24.7,0.0,34
+SEN,Senegal,2004,21,24.2,0.0,55
+SEN,Senegal,2008,17,23.9,0.0,47
+SEN,Senegal,2012,32,24.8,0.0,17
+SEN,Senegal,2016,22,29.0,0.0,57
+SEY,Seychelles,1980,21,22.8,,10
+SEY,Seychelles,1984,15,23.3,0.0,34
+SEY,Seychelles,1992,21,19.2,0.0,52
+SEY,Seychelles,1996,9,24.1,0.0,36
+SEY,Seychelles,2000,9,22.1,0.0,44
+SEY,Seychelles,2004,10,23.4,0.0,39
+SEY,Seychelles,2008,10,25.6,0.0,40
+SEY,Seychelles,2012,6,19.2,0.0,43
+SEY,Seychelles,2016,10,26.1,0.0,61
+SGP,Singapore,1968,6,26.7,1.0,27
+SGP,Singapore,1972,12,20.8,0.0,47
+SGP,Singapore,1976,4,24.0,0.0,42
+SGP,Singapore,1984,14,19.7,0.0,38
+SGP,Singapore,1988,27,22.2,0.0,47
+SGP,Singapore,1992,37,21.6,0.0,17
+SGP,Singapore,1996,35,20.6,0.0,44
+SGP,Singapore,2000,23,21.2,0.0,45
+SGP,Singapore-1,2004,22,24.6,0.0,37
+SGP,Singapore,2008,36,22.9,0.0,50
+SGP,Singapore,2012,36,23.4,3.0,42
+SGP,Singapore,2016,32,24.4,4.0,43
+SKN,Saint Kitts and Nevis,1996,14,24.0,,34
+SKN,Saint Kitts and Nevis,2000,4,25.0,0.0,59
+SKN,Saint Kitts and Nevis,2004,2,23.5,0.0,23
+SKN,Saint Kitts and Nevis,2008,6,25.7,0.0,43
+SKN,Saint Kitts and Nevis,2012,7,21.4,0.0,46
+SKN,Saint Kitts and Nevis,2016,9,29.1,0.0,27
+SLE,Sierra Leone,1968,4,27.2,,14
+SLE,Sierra Leone,1980,32,22.4,0.0,15
+SLE,Sierra Leone,1984,10,21.9,0.0,51
+SLE,Sierra Leone,1988,20,22.9,0.0,34
+SLE,Sierra Leone,1992,15,20.4,0.0,44
+SLE,Sierra Leone,1996,19,23.3,0.0,70
+SLE,Sierra Leone,2004,2,18.5,0.0,28
+SLE,Sierra Leone,2008,3,21.0,0.0,44
+SLE,Sierra Leone,2012,2,25.5,0.0,42
+SLE,Sierra Leone,2016,4,22.2,0.0,57
+SLO,Slovenia,1992,47,24.5,,56
+SLO,Slovenia,1996,47,24.4,6.0,45
+SLO,Slovenia,2000,90,25.2,2.0,62
+SLO,Slovenia,2004,102,25.8,3.0,25
+SLO,Slovenia,2008,73,26.5,5.0,39
+SLO,Slovenia,2012,78,26.4,5.0,24
+SLO,Slovenia,2016,70,27.0,5.0,21
+SMR,San Marino,1968,4,28.5,0.0,42
+SMR,San Marino,1972,7,28.6,0.0,30
+SMR,San Marino,1976,10,28.3,0.0,54
+SMR,San Marino,1980,16,28.8,0.0,42
+SMR,San Marino,1984,31,25.9,0.0,36
+SMR,San Marino,1988,15,25.8,0.0,56
+SMR,San Marino,1992,20,25.4,0.0,50
+SMR,San Marino,1996,7,25.6,0.0,39
+SMR,San Marino,2000,4,28.8,0.0,31
+SMR,San Marino,2004,5,27.2,0.0,20
+SMR,San Marino,2008,4,26.8,0.0,31
+SMR,San Marino,2012,4,27.2,0.0,38
+SMR,San Marino,2016,4,34.0,0.0,49
+SOL,Solomon Islands,1984,3,24.5,,40
+SOL,Solomon Islands,1988,5,23.0,0.0,19
+SOL,Solomon Islands,2000,2,22.0,0.0,35
+SOL,Solomon Islands,2004,2,21.5,0.0,35
+SOL,Solomon Islands,2008,3,22.0,0.0,28
+SOL,Solomon Islands,2012,4,28.2,0.0,54
+SOL,Solomon Islands,2016,3,24.7,0.0,40
+SOM,Somalia,1972,4,24.8,,61
+SOM,Somalia,1984,9,19.8,0.0,32
+SOM,Somalia,1988,5,23.2,0.0,57
+SOM,Somalia,1996,4,28.0,0.0,49
+SOM,Somalia,2000,2,23.0,0.0,41
+SOM,Somalia,2004,2,17.0,0.0,36
+SOM,Somalia,2008,2,17.5,0.0,20
+SRB,Serbia,2008,97,25.9,0.0,62
+SRB,Serbia,2012,134,26.6,15.0,46
+SRB,Serbia,2016,127,27.6,16.0,88
+SRI,Sri Lanka,1964,7,26.0,0.0,42
+SRI,Sri Lanka,1968,3,31.0,0.0,66
+SRI,Sri Lanka,1972,6,25.3,0.0,59
+SRI,Sri Lanka,1980,4,28.0,0.0,41
+SRI,Sri Lanka,1984,6,22.5,0.0,43
+SRI,Sri Lanka,1988,9,23.2,0.0,50
+SRI,Sri Lanka,1992,16,23.9,0.0,29
+SRI,Sri Lanka,1996,11,26.4,0.0,52
+SRI,Sri Lanka,2000,24,26.5,0.0,38
+SRI,Sri Lanka,2004,8,27.2,1.0,15
+SRI,Sri Lanka,2008,9,27.7,0.0,43
+SRI,Sri Lanka,2012,8,26.5,0.0,14
+SRI,Sri Lanka,2016,10,29.0,0.0,55
+SSD,South Sudan,2016,3,24.0,,45
+STP,Sao Tome and Principe,1996,2,18.5,,73
+STP,Sao Tome and Principe,2000,2,24.5,0.0,45
+STP,Sao Tome and Principe,2004,2,17.0,0.0,21
+STP,Sao Tome and Principe,2008,4,21.2,0.0,19
+STP,Sao Tome and Principe,2012,2,23.0,0.0,25
+STP,Sao Tome and Principe,2016,3,27.3,0.0,63
+SUD,Sudan,1968,7,32.0,0.0,69
+SUD,Sudan,1972,31,24.7,0.0,40
+SUD,Sudan,1984,9,27.2,0.0,37
+SUD,Sudan,1988,8,27.8,0.0,46
+SUD,Sudan,1992,7,26.0,0.0,40
+SUD,Sudan,1996,4,25.0,0.0,53
+SUD,Sudan,2000,3,19.0,0.0,32
+SUD,Sudan,2004,4,23.2,0.0,37
+SUD,Sudan,2008,9,22.2,0.0,47
+SUD,Sudan,2012,6,23.0,1.0,34
+SUD,Sudan,2016,6,21.3,0.0,41
+SUI,Switzerland,1964,129,28.1,12.0,50
+SUI,Switzerland,1968,155,26.0,6.0,59
+SUI,Switzerland,1972,265,24.1,13.0,35
+SUI,Switzerland,1976,101,25.6,8.0,51
+SUI,Switzerland,1980,86,25.3,10.0,53
+SUI,Switzerland,1984,245,23.7,2.0,28
+SUI,Switzerland,1988,151,27.6,13.0,53
+SUI,Switzerland,1992,171,26.3,8.0,30
+SUI,Switzerland,1996,172,27.1,1.0,49
+SUI,Switzerland,2000,138,27.4,11.0,53
+SUI,Switzerland,2004,138,27.4,14.0,45
+SUI,Switzerland,2008,116,27.4,7.0,61
+SUI,Switzerland,2012,126,27.4,11.0,19
+SUI,Switzerland-1,2016,152,26.0,4.0,55
+SUR,Suriname,1968,1,20.0,,53
+SUR,Suriname,1972,3,19.0,0.0,47
+SUR,Suriname,1976,4,23.0,0.0,44
+SUR,Suriname,1984,7,19.8,0.0,48
+SUR,Suriname,1988,10,21.4,0.0,49
+SUR,Suriname,1992,9,21.7,1.0,40
+SUR,Suriname,1996,11,21.3,1.0,29
+SUR,Suriname,2000,5,23.6,0.0,50
+SUR,Suriname,2004,4,23.5,0.0,65
+SUR,Suriname,2008,4,19.0,0.0,44
+SUR,Suriname,2012,5,22.0,0.0,52
+SUR,Suriname,2016,6,24.3,0.0,44
+SVK,Slovakia,1996,98,24.7,,38
+SVK,Slovakia,2000,132,24.6,3.0,30
+SVK,Slovakia,2004,84,26.2,6.0,41
+SVK,Slovakia,2008,67,27.8,10.0,41
+SVK,Slovakia,2012,65,27.4,10.0,53
+SVK,Slovakia,2016,63,28.0,5.0,46
+SWE,Sweden,1964,175,26.1,7.0,74
+SWE,Sweden,1968,186,24.4,15.0,33
+SWE,Sweden,1972,186,24.9,9.0,68
+SWE,Sweden,1976,163,24.5,22.0,49
+SWE,Sweden,1980,201,23.8,10.0,76
+SWE,Sweden,1984,254,24.2,20.0,83
+SWE,Sweden,1988,251,25.5,34.0,46
+SWE,Sweden,1992,252,26.3,16.0,76
+SWE,Sweden,1996,233,27.1,35.0,48
+SWE,Sweden,2000,198,27.2,31.0,64
+SWE,Sweden,2004,157,27.6,32.0,41
+SWE,Sweden,2008,169,27.9,12.0,47
+SWE,Sweden,2012,168,28.4,7.0,69
+SWE,Sweden,2016,186,27.7,22.0,77
+SWZ,Swaziland,1972,4,34.0,,52
+SWZ,Swaziland,1984,11,23.5,0.0,34
+SWZ,Swaziland,1988,15,24.7,0.0,27
+SWZ,Swaziland,1992,10,21.5,0.0,33
+SWZ,Swaziland,1996,6,26.0,0.0,39
+SWZ,Swaziland,2000,6,22.3,0.0,44
+SWZ,Swaziland,2004,3,26.7,0.0,29
+SWZ,Swaziland,2008,4,20.0,0.0,30
+SWZ,Swaziland,2012,3,22.0,0.0,14
+SWZ,Swaziland,2016,2,25.5,0.0,34
+SYR,Syria,1972,5,31.0,,29
+SYR,Syria,1980,71,24.5,0.0,53
+SYR,Syria,1984,9,24.9,0.0,45
+SYR,Syria,1988,13,22.8,1.0,45
+SYR,Syria,1992,9,23.7,0.0,35
+SYR,Syria,1996,8,23.8,0.0,52
+SYR,Syria,2000,8,26.0,1.0,53
+SYR,Syria,2004,6,27.2,0.0,45
+SYR,Syria,2008,7,25.0,1.0,52
+SYR,Syria,2012,10,24.5,0.0,38
+SYR,Syria,2016,7,24.1,0.0,37
+TAN,Tanzania,1964,4,23.2,,41
+TAN,Tanzania,1968,5,21.0,0.0,61
+TAN,Tanzania,1972,22,23.0,0.0,33
+TAN,Tanzania,1980,48,25.0,0.0,46
+TAN,Tanzania,1984,21,27.4,2.0,41
+TAN,Tanzania,1988,10,23.5,0.0,25
+TAN,Tanzania,1992,9,26.0,0.0,37
+TAN,Tanzania,1996,7,25.9,0.0,28
+TAN,Tanzania,2000,4,27.0,0.0,21
+TAN,Tanzania,2004,9,24.4,0.0,31
+TAN,Tanzania,2008,9,25.4,0.0,39
+TAN,Tanzania,2012,6,26.7,0.0,46
+TAN,Tanzania,2016,7,24.4,0.0,52
+TCH,Czechoslovakia,1964,187,24.8,22.0,103
+TCH,Czechoslovakia,1968,203,24.0,54.0,72
+TCH,Czechoslovakia,1972,274,24.5,29.0,45
+TCH,Czechoslovakia,1976,251,24.0,29.0,77
+TCH,Czechoslovakia,1980,317,24.0,15.0,81
+TCH,Czechoslovakia,1988,226,23.7,51.0,43
+TCH,Czechoslovakia,1992,269,24.0,10.0,55
+TGA,Tonga,1988,7,22.1,,32
+TGA,Tonga,1992,5,24.0,0.0,41
+TGA,Tonga,1996,5,24.4,0.0,27
+TGA,Tonga,2000,3,27.7,1.0,63
+TGA,Tonga,2004,5,27.4,0.0,36
+TGA,Tonga,2008,3,29.7,0.0,56
+TGA,Tonga,2012,3,24.7,0.0,52
+TGA,Tonga,2016,7,22.1,0.0,34
+THA,Thailand,1964,67,25.2,0.0,35
+THA,Thailand,1968,46,26.4,0.0,31
+THA,Thailand,1972,37,29.2,0.0,33
+THA,Thailand,1976,62,26.4,0.0,68
+THA,Thailand,1984,40,27.8,1.0,59
+THA,Thailand,1988,15,24.9,1.0,33
+THA,Thailand,1992,64,22.2,1.0,43
+THA,Thailand,1996,58,21.3,1.0,16
+THA,Thailand,2000,68,23.0,2.0,26
+THA,Thailand,2004,51,25.2,3.0,47
+THA,Thailand,2008,53,24.6,8.0,27
+THA,Thailand,2012,43,24.9,4.0,38
+THA,Thailand,2016,58,26.0,3.0,50
+TJK,Tajikistan,1996,8,21.5,,16
+TJK,Tajikistan,2000,4,22.2,0.0,56
+TJK,Tajikistan,2004,9,29.3,0.0,29
+TJK,Tajikistan,2008,16,27.3,0.0,43
+TJK,Tajikistan,2012,16,27.2,2.0,36
+TJK,Tajikistan,2016,7,24.9,1.0,28
+TKM,Turkmenistan,1996,7,24.3,,25
+TKM,Turkmenistan,2000,8,25.4,0.0,39
+TKM,Turkmenistan,2004,10,24.7,0.0,23
+TKM,Turkmenistan,2008,10,23.7,0.0,51
+TKM,Turkmenistan,2012,10,23.0,0.0,43
+TKM,Turkmenistan,2016,9,22.4,0.0,47
+TLS,Timor Leste,2004,2,27.0,,53
+TLS,Timor Leste,2008,1,24.0,0.0,18
+TLS,Timor Leste,2012,2,24.0,0.0,35
+TLS,Timor Leste,2016,3,26.0,0.0,24
+TOG,Togo,1972,7,22.2,,50
+TOG,Togo,1984,6,25.2,0.0,66
+TOG,Togo,1988,6,23.3,0.0,16
+TOG,Togo,1992,9,24.3,0.0,47
+TOG,Togo,1996,7,26.3,0.0,35
+TOG,Togo,2000,3,19.3,0.0,25
+TOG,Togo,2004,3,22.7,0.0,54
+TOG,Togo,2008,4,27.5,0.0,42
+TOG,Togo,2012,6,23.8,1.0,35
+TOG,Togo,2016,5,18.8,0.0,55
+TPE,Chinese Taipei,1964,96,24.3,1.0,52
+TPE,Chinese Taipei,1968,93,23.9,0.0,21
+TPE,Chinese Taipei,1972,44,21.6,1.0,23
+TPE,Chinese Taipei,1984,52,22.8,0.0,53
+TPE,Chinese Taipei,1988,123,22.0,1.0,53
+TPE,Chinese Taipei,1992,38,24.8,0.0,55
+TPE,Chinese Taipei,1996,107,22.2,20.0,43
+TPE,Chinese Taipei-1,2000,75,22.3,1.0,41
+TPE,Chinese Taipei,2004,104,22.9,5.0,49
+TPE,Chinese Taipei,2008,92,24.8,9.0,37
+TPE,Chinese Taipei,2012,55,24.2,4.0,51
+TPE,Chinese Taipei,2016,67,25.1,2.0,28
+TTO,Trinidad and Tobago,1964,18,25.0,0.0,49
+TTO,Trinidad and Tobago,1968,25,24.3,6.0,37
+TTO,Trinidad and Tobago,1972,36,22.9,0.0,55
+TTO,Trinidad and Tobago,1976,20,24.4,0.0,16
+TTO,Trinidad and Tobago,1980,15,27.1,1.0,44
+TTO,Trinidad and Tobago,1984,23,22.0,0.0,53
+TTO,Trinidad and Tobago,1988,10,23.2,0.0,50
+TTO,Trinidad and Tobago,1992,13,25.1,0.0,28
+TTO,Trinidad and Tobago,1996,16,24.0,0.0,48
+TTO,Trinidad and Tobago,2000,29,23.3,2.0,34
+TTO,Trinidad and Tobago,2004,26,24.2,2.0,62
+TTO,Trinidad and Tobago,2008,35,24.7,1.0,33
+TTO,Trinidad and Tobago,2012,38,24.7,6.0,41
+TTO,Trinidad and Tobago,2016,43,26.4,10.0,35
+TUN,Tunisia,1964,12,25.2,0.0,28
+TUN,Tunisia,1968,8,25.4,2.0,61
+TUN,Tunisia,1972,37,23.3,2.0,40
+TUN,Tunisia,1976,16,22.7,1.0,49
+TUN,Tunisia,1984,28,22.1,0.0,54
+TUN,Tunisia,1988,45,24.2,0.0,37
+TUN,Tunisia,1992,15,24.7,0.0,37
+TUN,Tunisia,1996,52,23.8,0.0,28
+TUN,Tunisia,2000,47,24.4,1.0,56
+TUN,Tunisia,2004,64,23.2,0.0,40
+TUN,Tunisia,2008,29,23.7,0.0,38
+TUN,Tunisia,2012,87,25.3,1.0,51
+TUN,Tunisia,2016,65,26.9,3.0,40
+TUR,Turkey,1964,25,29.0,9.0,38
+TUR,Turkey,1968,30,27.1,6.0,31
+TUR,Turkey,1972,50,25.8,2.0,35
+TUR,Turkey,1976,28,25.9,1.0,39
+TUR,Turkey,1984,62,24.8,0.0,44
+TUR,Turkey,1988,51,23.6,3.0,27
+TUR,Turkey,1992,54,23.1,2.0,55
+TUR,Turkey,1996,61,24.4,6.0,41
+TUR,Turkey,2000,67,23.9,6.0,48
+TUR,Turkey,2004,74,24.3,5.0,49
+TUR,Turkey,2008,71,25.6,11.0,36
+TUR,Turkey,2012,119,25.7,7.0,55
+TUR,Turkey,2016,119,25.4,5.0,44
+TUV,Tuvalu,2008,3,18.7,,29
+TUV,Tuvalu,2012,3,20.3,0.0,31
+TUV,Tuvalu,2016,1,24.0,0.0,38
+UAE,United Arab Emirates,1988,36,19.5,,43
+UAE,United Arab Emirates,1992,36,21.6,0.0,37
+UAE,United Arab Emirates,1996,4,23.8,0.0,29
+UAE,United Arab Emirates,2000,5,27.6,0.0,40
+UAE,United Arab Emirates,2004,5,29.4,0.0,39
+UAE,United Arab Emirates,2008,9,27.8,1.0,64
+UAE,United Arab Emirates,2012,26,23.6,0.0,39
+UAE,United Arab Emirates,2016,12,27.8,0.0,6
+UGA,Uganda,1964,19,23.2,0.0,44
+UGA,Uganda,1968,14,22.6,0.0,35
+UGA,Uganda,1972,35,25.5,2.0,41
+UGA,Uganda,1980,16,24.5,2.0,67
+UGA,Uganda,1984,30,24.4,1.0,43
+UGA,Uganda,1988,30,23.8,0.0,41
+UGA,Uganda,1992,9,22.6,0.0,19
+UGA,Uganda,1996,12,25.4,0.0,54
+UGA,Uganda,2000,13,24.5,1.0,57
+UGA,Uganda,2004,11,20.9,0.0,36
+UGA,Uganda,2008,11,23.5,0.0,36
+UGA,Uganda,2012,16,24.1,0.0,35
+UGA,Uganda,2016,23,23.1,1.0,47
+UKR,Ukraine,1996,351,24.4,,67
+UKR,Ukraine,2000,368,24.5,34.0,67
+UKR,Ukraine,2004,357,24.4,35.0,79
+UKR,Ukraine,2008,327,24.9,47.0,90
+UKR,Ukraine,2012,304,25.4,31.0,72
+UKR,Ukraine,2016,272,26.5,26.0,61
+URS,Soviet Union,1964,463,26.0,169.0,213
+URS,Soviet Union,1968,471,24.4,174.0,244
+URS,Soviet Union,1972,531,24.9,192.0,252
+URS,Soviet Union,1976,574,24.0,214.0,327
+URS,Soviet Union,1980,660,23.7,286.0,487
+URS,Soviet Union,1988,647,24.1,442.0,343
+URU,Uruguay,1964,29,25.4,0.0,26
+URU,Uruguay,1968,50,20.8,1.0,42
+URU,Uruguay,1972,20,22.7,0.0,33
+URU,Uruguay,1976,15,20.8,0.0,22
+URU,Uruguay,1984,23,22.0,0.0,35
+URU,Uruguay,1988,18,24.2,0.0,48
+URU,Uruguay,1992,18,27.4,0.0,42
+URU,Uruguay,1996,15,25.1,0.0,27
+URU,Uruguay,2000,17,25.8,0.0,49
+URU,Uruguay,2004,18,24.3,1.0,45
+URU,Uruguay,2008,13,25.3,0.0,41
+URU,Uruguay,2012,27,24.0,0.0,45
+URU,Uruguay,2016,17,29.2,0.0,43
+USA,United States,1964,492,23.5,125.0,205
+USA,United States,1968,529,23.5,169.0,206
+USA,United States,1972,578,23.6,166.0,203
+USA,United States,1976,554,23.0,171.0,201
+USA,United States,1984,693,24.6,164.0,404
+USA,United States,1988,715,25.2,352.0,234
+USA,United States,1992,734,25.7,207.0,257
+USA,United States,1996,839,26.4,224.0,304
+USA,United States,2000,764,26.6,259.0,268
+USA,United States,2004,726,26.5,242.0,285
+USA,United States,2008,763,26.4,263.0,363
+USA,United States,2012,689,26.7,317.0,268
+USA,United States,2016,719,26.4,248.0,311
+UZB,Uzbekistan,1996,95,24.3,,55
+UZB,Uzbekistan,2000,85,24.4,2.0,37
+UZB,Uzbekistan,2004,79,23.7,4.0,45
+UZB,Uzbekistan,2008,69,23.3,5.0,57
+UZB,Uzbekistan,2012,56,25.4,6.0,42
+UZB,Uzbekistan,2016,80,25.7,3.0,46
+VAN,Vanuatu,1988,6,22.7,,61
+VAN,Vanuatu,1992,8,21.6,0.0,40
+VAN,Vanuatu,1996,4,25.8,0.0,47
+VAN,Vanuatu,2000,3,38.7,0.0,53
+VAN,Vanuatu,2004,2,18.0,0.0,44
+VAN,Vanuatu,2008,3,21.0,0.0,52
+VAN,Vanuatu,2012,5,24.6,0.0,33
+VAN,Vanuatu,2016,4,23.0,0.0,43
+VEN,Venezuela,1964,23,29.9,1.0,39
+VEN,Venezuela,1968,30,28.2,0.0,62
+VEN,Venezuela,1972,33,21.8,1.0,27
+VEN,Venezuela,1976,56,19.1,0.0,65
+VEN,Venezuela,1980,43,21.8,1.0,65
+VEN,Venezuela,1984,44,23.5,1.0,56
+VEN,Venezuela,1988,17,23.2,3.0,22
+VEN,Venezuela,1992,27,25.6,0.0,53
+VEN,Venezuela,1996,53,23.5,0.0,39
+VEN,Venezuela,2000,65,23.0,0.0,50
+VEN,Venezuela,2004,53,24.4,0.0,15
+VEN,Venezuela,2008,126,24.4,2.0,47
+VEN,Venezuela,2012,85,26.3,1.0,28
+VEN,Venezuela,2016,105,27.5,1.0,34
+VIE,Vietnam,1980,38,23.7,,18
+VIE,Vietnam,1988,12,22.9,0.0,57
+VIE,Vietnam,1992,10,23.6,0.0,44
+VIE,Vietnam,1996,6,22.2,0.0,45
+VIE,Vietnam,2000,7,22.4,0.0,65
+VIE,Vietnam,2004,11,22.5,1.0,45
+VIE,Vietnam,2008,18,25.1,0.0,28
+VIE,Vietnam,2012,24,23.7,1.0,36
+VIE,Vietnam,2016,28,26.9,0.0,38
+VIN,Saint Vincent and the Grenadines,1988,6,20.5,,51
+VIN,Saint Vincent and the Grenadines,1992,8,22.0,0.0,31
+VIN,Saint Vincent and the Grenadines,1996,12,21.8,0.0,37
+VIN,Saint Vincent and the Grenadines,2000,4,21.0,0.0,29
+VIN,Saint Vincent and the Grenadines,2004,3,21.3,0.0,51
+VIN,Saint Vincent and the Grenadines,2008,2,24.0,0.0,29
+VIN,Saint Vincent and the Grenadines,2012,3,22.0,0.0,19
+VIN,Saint Vincent and the Grenadines,2016,4,20.8,0.0,50
+VNM,South Vietnam,1964,23,27.6,0.0,23
+VNM,South Vietnam,1968,9,27.6,0.0,54
+VNM,South Vietnam,1972,2,43.0,0.0,34
+YAR,North Yemen,1984,3,27.7,,49
+YAR,North Yemen,1988,8,20.1,0.0,57
+YEM,Yemen,1992,8,19.6,,31
+YEM,Yemen,1996,4,24.8,0.0,20
+YEM,Yemen,2000,2,25.0,0.0,37
+YEM,Yemen,2004,3,20.0,0.0,20
+YEM,Yemen,2008,8,21.4,0.0,34
+YEM,Yemen,2012,4,20.0,0.0,41
+YEM,Yemen,2016,3,19.3,0.0,37
+YMD,South Yemen,1988,5,23.6,,62
+YUG,Yugoslavia,1964,123,25.0,17.0,67
+YUG,Yugoslavia,1968,130,24.2,15.0,71
+YUG,Yugoslavia,1972,212,24.6,29.0,51
+YUG,Yugoslavia,1976,95,24.4,18.0,45
+YUG,Yugoslavia,1980,180,24.3,19.0,99
+YUG,Yugoslavia,1984,154,24.6,57.0,123
+YUG,Yugoslavia,1988,183,23.9,87.0,72
+ZAM,Zambia,1964,15,21.7,,19
+ZAM,Zambia,1968,7,20.1,0.0,22
+ZAM,Zambia,1972,12,21.2,0.0,35
+ZAM,Zambia,1980,43,27.2,0.0,57
+ZAM,Zambia,1984,18,22.3,0.0,37
+ZAM,Zambia,1988,33,24.0,1.0,47
+ZAM,Zambia,1992,11,22.8,0.0,34
+ZAM,Zambia,1996,8,25.8,0.0,35
+ZAM,Zambia,2000,8,23.0,1.0,35
+ZAM,Zambia,2004,6,22.5,0.0,37
+ZAM,Zambia,2008,8,21.9,0.0,35
+ZAM,Zambia,2012,7,22.6,0.0,69
+ZAM,Zambia,2016,7,24.1,0.0,41
+ZIM,Zimbabwe,1964,33,25.3,0.0,25
+ZIM,Zimbabwe,1980,52,26.9,0.0,73
+ZIM,Zimbabwe,1984,20,29.1,15.0,27
+ZIM,Zimbabwe,1988,47,25.1,0.0,44
+ZIM,Zimbabwe,1992,28,21.2,0.0,19
+ZIM,Zimbabwe,1996,21,23.8,0.0,47
+ZIM,Zimbabwe,2000,26,25.0,0.0,46
+ZIM,Zimbabwe,2004,14,25.1,0.0,43
+ZIM,Zimbabwe,2008,16,26.1,3.0,17
+ZIM,Zimbabwe,2012,9,27.3,4.0,40
+ZIM,Zimbabwe,2016,31,27.5,0.0,37

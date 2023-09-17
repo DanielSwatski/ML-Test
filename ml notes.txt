@@ -1,0 +1,73 @@
+7 steps of a machine learning project
+
+
+1. form a  hypothesis
+2. gather data
+3. reshape the data
+	this might be the more complicated part of it
+4. clean the data
+	see where missing values might be
+5. error metric
+	see if prediction is good 
+	mean absolute error which he talks about but there are a ton of others for it
+6. split data
+	train on one part of data and predict on another part
+7. train a model
+	using linear regression which I should look up other common ones as well
+	using multivariate in real life is the most common way to train the model
+
+
+The above is the overview of how it works coding wise you actually need to program it with the rest of the project
+
+Look at the regression algs and understand more of the stat equations that are used here
+Mean absolute error
+how training works and testing works
+other important algs to know for this
+Standard deviations
+mean absolute error
+
+To excel in machine learning, you'll need a strong foundation in several mathematical concepts. Here are some of the most important statistical equations, linear algebra topics, and calculus topics to know:
+
+Statistics:
+
+    Probability Distributions: Understand common probability distributions like the Gaussian (normal) distribution, Bernoulli distribution, Binomial distribution, Poisson distribution, and Exponential distribution. Key equations include their probability density functions and cumulative distribution functions.
+
+    Expected Value (Mean): The expected value of a random variable X is given by E(X) = ∑(x * P(X=x)), where x represents the possible outcomes of X and P(X=x) is the probability of each outcome.
+
+    Variance and Standard Deviation: Variance is given by Var(X) = E((X - μ)^2), where μ is the mean. Standard deviation is the square root of the variance, i.e., σ = √Var(X).
+
+    Covariance and Correlation: Covariance measures the degree to which two random variables change together. Correlation is normalized covariance and is given by Corr(X, Y) = Cov(X, Y) / (σ_X * σ_Y).
+
+    Bayes' Theorem: P(A|B) = P(B|A) * P(A) / P(B), where P(A|B) is the probability of A given B, P(B|A) is the probability of B given A, P(A) is the prior probability of A, and P(B) is the prior probability of B.
+
+Linear Algebra:
+
+    Vectors and Matrices: Understand vectors, matrices, and their basic operations (addition, subtraction, scalar multiplication, etc.).
+
+    Matrix Multiplication: Know how to multiply matrices and the rules governing matrix multiplication, such as the dot product.
+
+    Transpose: Understand the concept of matrix transpose and its properties.
+
+    Matrix Inversion: Learn about the inverse of a matrix and when it exists.
+
+    Eigenvalues and Eigenvectors: These are essential for understanding linear transformations and diagonalization of matrices.
+
+    Singular Value Decomposition (SVD): SVD is a powerful technique used in dimensionality reduction and data compression.
+
+Calculus:
+
+    Derivatives: Understand the concept of derivatives and their applications in optimization. Know how to compute derivatives of functions.
+
+    Gradient: The gradient is a vector that points in the direction of the steepest increase of a function. It's crucial for gradient-based optimization algorithms.
+
+    Partial Derivatives: Understand partial derivatives for multivariable functions.
+
+    Integration: Familiarize yourself with integration techniques and their applications, such as calculating probabilities and expected values.
+
+    Chain Rule: Know how to apply the chain rule for finding derivatives of composite functions.
+
+    Gradient Descent: Understand how gradient descent is used for optimization in machine learning.
+
+
+
+
